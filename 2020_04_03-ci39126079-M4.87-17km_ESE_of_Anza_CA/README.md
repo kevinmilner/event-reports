@@ -28,16 +28,17 @@ Information and plots in the section are taken from the [USGS event page](https:
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence. They were last updated at 2020/04/11 06:38:38 UTC, 7.2 days after the mainshock.
+These plots show the aftershock sequence. They were last updated at 2020/04/11 06:47:57 UTC, 7.2 days after the mainshock.
 
-1873 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.
+1874 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.
 
 
 |  | First Hour | First Day | First Week | To Date |
 |-----|-----|-----|-----|-----|
-| **M 0** | 104 | 590 | 1866 | 1873 |
+| **M 0** | 104 | 590 | 1866 | 1874 |
 | **M 1** | 88 | 255 | 573 | 573 |
 | **M 2** | 22 | 38 | 85 | 85 |
+| **M 3** | 3 | 6 | 12 | 12 |
 ### Magnitude vs Time Plot
 *[(top)](#table-of-contents)*
 
