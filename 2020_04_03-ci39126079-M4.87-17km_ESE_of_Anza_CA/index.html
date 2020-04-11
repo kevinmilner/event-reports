@@ -23,8 +23,16 @@ img {
 <h2 id="table-of-contents">Table Of Contents</h2>
 <ul>
 <li><a href="#mainshock-details">Mainshock Details</a></li>
+<li><a href="#sequence-details">Sequence Details</a>
+<ul>
+<li><a href="#magnitude-vs-time-plot">Magnitude vs Time Plot</a></li>
+<li><a href="#cumulative-number-plot">Cumulative Number Plot</a></li>
+<li><a href="#magnitude-number-distributions">Magnitude-Number Distributions</a></li>
+</ul>
+</li>
 </ul>
 <h2 id="mainshock-details">Mainshock Details</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
 <p>Information and plots in the section are taken from the <a href="https://earthquake.usgs.gov/earthquakes/eventpage/ci39126079">USGS event page</a>, accessed through ComCat.</p>
 <table>
 <thead>
@@ -44,7 +52,40 @@ img {
 <tr><th><a href="https://earthquake.usgs.gov/earthquakes/eventpage/ci39126079/shakemap/">ShakeMap</a></th><th><a href="https://earthquake.usgs.gov/earthquakes/eventpage/ci39126079/dyfi/">Did You Feel It?</a></th><th><a href="https://earthquake.usgs.gov/earthquakes/eventpage/ci39126079/pager/">PAGER</a></th></tr>
 </thead>
 <tbody>
-<tr><td><img src="resources/shakemap.jpg" alt="ShakeMap" /></td><td><img src="resources/dyfi.jpg" alt="DYFI" /></td><td><img src="resources/pager_fatalities.png" alt="Fatalities" /> <img src="resources/pager_economic.png" alt="Economic" /></td></tr>
+<tr><td><img src="resources/shakemap.jpg" alt="ShakeMap" /></td><td><img src="resources/dyfi.jpg" alt="DYFI" /></td><td><img src="resources/pager.png" alt="PEGER" /></td></tr>
+</tbody>
+</table>
+<h2 id="sequence-details">Sequence Details</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>These plots show the aftershock sequence. They were last updated at 2020/04/11 06:38:38 UTC, 7.2 days after the mainshock.</p>
+<p>1873 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.</p>
+<table>
+<thead>
+<tr><th></th><th>First Hour</th><th>First Day</th><th>First Week</th><th>To Date</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>M 0</strong></td><td>104</td><td>590</td><td>1866</td><td>1873</td></tr>
+<tr><td><strong>M 1</strong></td><td>88</td><td>255</td><td>573</td><td>573</td></tr>
+<tr><td><strong>M 2</strong></td><td>22</td><td>38</td><td>85</td><td>85</td></tr>
+</tbody>
+</table>
+<h3 id="magnitude-vs-time-plot">Magnitude vs Time Plot</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>This plot shows the magnitude vs time evolution of the sequence. The mainshock is ploted as brown a brown circle, foreshocks are plotted as green circles, and aftershocks are plotted as cyan circles.</p>
+<p><img src="resources/aftershocks_mag_vs_time.png" alt="Time Func" /></p>
+<h3 id="cumulative-number-plot">Cumulative Number Plot</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>This plot shows the cumulative number of M&ge;0 aftershocks as a function of time since the mainshock.</p>
+<p><img src="resources/aftershocks_vs_time.png" alt="Time Func" /></p>
+<h3 id="magnitude-number-distributions">Magnitude-Number Distributions</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>These plot shows the magnitude-number distrubtion of the aftershock sequence thus far. The left plot gives an incremental distribution (the count in each magnitude bin), and the right plot a cumulative distribution (the count in or above each magnitude bin). The y-axis is logarithmic.</p>
+<table>
+<thead>
+<tr><th>Incremental MND</th><th>Cumulative MND</th></tr>
+</thead>
+<tbody>
+<tr><td><img src="resources/aftershocks_mag_num_incremental.png" alt="Incremental" /></td><td><img src="resources/aftershocks_mag_num_cumulative.png" alt="Cumulative" /></td></tr>
 </tbody>
 </table>
 </body>
