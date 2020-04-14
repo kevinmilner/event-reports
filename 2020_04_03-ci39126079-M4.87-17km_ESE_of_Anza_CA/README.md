@@ -3,6 +3,8 @@
 ## Table Of Contents
 
 * [Mainshock Details](#mainshock-details)
+  * [USGS Products](#usgs-products)
+  * [Nearby Faults](#nearby-faults)
 * [Sequence Details](#sequence-details)
   * [Aftershock Locations](#aftershock-locations)
   * [Magnitude vs Time Plot](#magnitude-vs-time-plot)
@@ -23,11 +25,18 @@ Information and plots in the section are taken from the [USGS event page](https:
 | Depth | 10.45 km |
 | Status | reviewed |
 
+### USGS Products
+*[(top)](#table-of-contents)*
+
 | <center>**[ShakeMap](https://earthquake.usgs.gov/earthquakes/eventpage/ci39126079/shakemap/)**</center> | <center>**[Did You Feel It?](https://earthquake.usgs.gov/earthquakes/eventpage/ci39126079/dyfi/)**</center> |
 |-----|-----|
 | ![ShakeMap](resources/ci39126079_shakemap.jpg) | ![DYFI](resources/ci39126079_dyfi.jpg) |
 | <center>**[PAGER](https://earthquake.usgs.gov/earthquakes/eventpage/ci39126079/pager/)**</center> | <center>**[Moment Tensor](https://earthquake.usgs.gov/earthquakes/eventpage/ci39126079/moment-tensor/)**</center> |
 | ![PEGER](resources/ci39126079_pager.png) | ![Mechanism](resources/ci39126079_mechanism.jpg) |
+
+### Nearby Faults
+*[(top)](#table-of-contents)*
+
 
 3 UCERF3 fault sections are within 10km of this event's hypocenter:
 
@@ -37,7 +46,7 @@ Information and plots in the section are taken from the [USGS event page](https:
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence. They were last updated at 2020/04/14 00:22:35 UTC, 9.94 days after the mainshock.
+These plots show the aftershock sequence. They were last updated at 2020/04/14 00:31:41 UTC, 9.94 days after the mainshock.
 
 1998 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.
 

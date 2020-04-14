@@ -3,6 +3,8 @@
 ## Table Of Contents
 
 * [Mainshock Details](#mainshock-details)
+  * [USGS Products](#usgs-products)
+  * [Nearby Faults](#nearby-faults)
 * [Sequence Details](#sequence-details)
   * [Aftershock Locations](#aftershock-locations)
   * [Magnitude vs Time Plot](#magnitude-vs-time-plot)
@@ -10,6 +12,8 @@
   * [Magnitude-Number Distributions](#magnitude-number-distributions)
 * [Significant Foreshocks](#significant-foreshocks)
   * [M6.4 1.41 days before](#m64-141-days-before)
+    * [USGS Products](#usgs-products)
+    * [Nearby Faults](#nearby-faults)
 
 ## Mainshock Details
 *[(top)](#table-of-contents)*
@@ -25,11 +29,18 @@ Information and plots in the section are taken from the [USGS event page](https:
 | Depth | 8.0 km |
 | Status | reviewed |
 
+### USGS Products
+*[(top)](#table-of-contents)*
+
 | <center>**[ShakeMap](https://earthquake.usgs.gov/earthquakes/eventpage/ci38457511/shakemap/)**</center> | <center>**[Did You Feel It?](https://earthquake.usgs.gov/earthquakes/eventpage/ci38457511/dyfi/)**</center> |
 |-----|-----|
 | ![ShakeMap](resources/ci38457511_shakemap.jpg) | ![DYFI](resources/ci38457511_dyfi.jpg) |
 | <center>**[PAGER](https://earthquake.usgs.gov/earthquakes/eventpage/ci38457511/pager/)**</center> | <center>**[Moment Tensor](https://earthquake.usgs.gov/earthquakes/eventpage/ci38457511/moment-tensor/)**</center> |
 | ![PEGER](resources/ci38457511_pager.png) | ![Mechanism](resources/ci38457511_mechanism.jpg) |
+
+### Nearby Faults
+*[(top)](#table-of-contents)*
+
 
 1 UCERF3 fault section is within 10km of this event's hypocenter:
 
@@ -37,7 +48,7 @@ Information and plots in the section are taken from the [USGS event page](https:
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence. They were last updated at 2020/04/14 00:27:10 UTC, 282.88 days after the mainshock.
+These plots show the aftershock sequence. They were last updated at 2020/04/14 00:31:52 UTC, 282.88 days after the mainshock.
 
 5409 M&ge;2 earthquakes within 47.75 km of the mainshock's epicenter.
 
@@ -101,11 +112,18 @@ Information and plots in the section are taken from the [USGS event page](https:
 | Depth | 10.5 km |
 | Status | reviewed |
 
+#### USGS Products
+*[(top)](#table-of-contents)*
+
 | <center>**[ShakeMap](https://earthquake.usgs.gov/earthquakes/eventpage/ci38443183/shakemap/)**</center> | <center>**[Did You Feel It?](https://earthquake.usgs.gov/earthquakes/eventpage/ci38443183/dyfi/)**</center> |
 |-----|-----|
 | ![ShakeMap](resources/ci38443183_shakemap.jpg) | ![DYFI](resources/ci38443183_dyfi.jpg) |
 | <center>**[PAGER](https://earthquake.usgs.gov/earthquakes/eventpage/ci38443183/pager/)**</center> | <center>**[Moment Tensor](https://earthquake.usgs.gov/earthquakes/eventpage/ci38443183/moment-tensor/)**</center> |
 | ![PEGER](resources/ci38443183_pager.png) | ![Mechanism](resources/ci38443183_mechanism.jpg) |
+
+#### Nearby Faults
+*[(top)](#table-of-contents)*
+
 
 No UCERF3 fault sections are within 10km of this event's hypocenter.
 
