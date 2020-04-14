@@ -46,14 +46,14 @@ Information and plots in the section are taken from the [USGS event page](https:
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence. They were last updated at 2020/04/14 01:43:08 UTC, 282.93 days after the mainshock.
+These plots show the aftershock sequence. They were last updated at 2020/04/14 03:51:04 UTC, 283.02 days after the mainshock.
 
-5409 M&ge;2 earthquakes within 47.75 km of the mainshock's epicenter.
+5410 M&ge;2 earthquakes within 47.75 km of the mainshock's epicenter.
 
 
 |  | First Hour | First Day | First Week | First Month | To Date |
 |-----|-----|-----|-----|-----|-----|
-| **M 2** | 239 | 1851 | 3281 | 4307 | 5409 |
+| **M 2** | 239 | 1851 | 3281 | 4307 | 5410 |
 | **M 3** | 226 | 608 | 770 | 881 | 977 |
 | **M 4** | 45 | 67 | 75 | 81 | 84 |
 | **M 5** | 2 | 2 | 2 | 2 | 2 |

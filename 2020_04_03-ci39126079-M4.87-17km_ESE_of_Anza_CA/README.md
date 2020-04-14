@@ -46,15 +46,15 @@ Information and plots in the section are taken from the [USGS event page](https:
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence. They were last updated at 2020/04/14 01:42:51 UTC, 9.99 days after the mainshock.
+These plots show the aftershock sequence. They were last updated at 2020/04/14 03:49:52 UTC, 10.08 days after the mainshock.
 
-2001 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.
+2005 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.
 
 
 |  | First Hour | First Day | First Week | To Date |
 |-----|-----|-----|-----|-----|
-| **M 0** | 104 | 590 | 1867 | 2001 |
-| **M 1** | 88 | 255 | 573 | 587 |
+| **M 0** | 104 | 590 | 1867 | 2005 |
+| **M 1** | 88 | 255 | 573 | 588 |
 | **M 2** | 22 | 38 | 85 | 85 |
 | **M 3** | 3 | 6 | 12 | 12 |
 ### Aftershock Locations

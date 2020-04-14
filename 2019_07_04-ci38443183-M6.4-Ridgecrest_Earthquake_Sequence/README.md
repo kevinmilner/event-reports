@@ -45,14 +45,14 @@ No UCERF3 fault sections are within 10km of this event's hypocenter.
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence. They were last updated at 2020/04/14 01:43:13 UTC, 284.34 days after the mainshock.
+These plots show the aftershock sequence. They were last updated at 2020/04/14 04:06:10 UTC, 284.44 days after the mainshock.
 
-2897 M&ge;2 earthquakes within 15.7 km of the mainshock's epicenter.
+2898 M&ge;2 earthquakes within 15.7 km of the mainshock's epicenter.
 
 
 |  | First Hour | First Day | First Week | First Month | To Date |
 |-----|-----|-----|-----|-----|-----|
-| **M 2** | 149 | 608 | 1838 | 2340 | 2897 |
+| **M 2** | 149 | 608 | 1838 | 2340 | 2898 |
 | **M 3** | 54 | 139 | 415 | 466 | 511 |
 | **M 4** | 5 | 19 | 43 | 46 | 46 |
 | **M 5** | 0 | 1 | 2 | 2 | 2 |
