@@ -12,8 +12,6 @@
   * [Magnitude-Number Distributions](#magnitude-number-distributions)
 * [Significant Aftershocks](#significant-aftershocks)
   * [M7.1 1.41 days after](#m71-141-days-after)
-    * [USGS Products](#usgs-products)
-    * [Nearby Faults](#nearby-faults)
 
 ## Mainshock Details
 *[(top)](#table-of-contents)*
@@ -47,7 +45,7 @@ No UCERF3 fault sections are within 10km of this event's hypocenter.
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence. They were last updated at 2020/04/14 00:32:02 UTC, 284.29 days after the mainshock.
+These plots show the aftershock sequence. They were last updated at 2020/04/14 00:32:55 UTC, 284.29 days after the mainshock.
 
 2897 M&ge;2 earthquakes within 15.7 km of the mainshock's epicenter.
 

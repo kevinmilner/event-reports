@@ -12,8 +12,6 @@
   * [Magnitude-Number Distributions](#magnitude-number-distributions)
 * [Significant Foreshocks](#significant-foreshocks)
   * [M6.4 1.41 days before](#m64-141-days-before)
-    * [USGS Products](#usgs-products)
-    * [Nearby Faults](#nearby-faults)
 
 ## Mainshock Details
 *[(top)](#table-of-contents)*
@@ -48,7 +46,7 @@ Information and plots in the section are taken from the [USGS event page](https:
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence. They were last updated at 2020/04/14 00:31:52 UTC, 282.88 days after the mainshock.
+These plots show the aftershock sequence. They were last updated at 2020/04/14 00:33:02 UTC, 282.88 days after the mainshock.
 
 5409 M&ge;2 earthquakes within 47.75 km of the mainshock's epicenter.
 
