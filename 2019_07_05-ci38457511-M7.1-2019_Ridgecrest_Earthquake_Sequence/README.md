@@ -31,20 +31,20 @@ Information and plots in the section are taken from the [USGS event page](https:
 | <center>**[PAGER](https://earthquake.usgs.gov/earthquakes/eventpage/ci38457511/pager/)**</center> | <center>**[Moment Tensor](https://earthquake.usgs.gov/earthquakes/eventpage/ci38457511/moment-tensor/)**</center> |
 | ![PEGER](resources/ci38457511_pager.png) | ![Mechanism](resources/ci38457511_mechanism.jpg) |
 
-1 UCERF3 fault sections are within 10km of this event's hypocenter:
+1 UCERF3 fault section is within 10km of this event's hypocenter:
 
 * Airport Lake: 5.61km
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence. They were last updated at 2020/04/14 00:17:51 UTC, 282.87 days after the mainshock.
+These plots show the aftershock sequence. They were last updated at 2020/04/14 00:27:10 UTC, 282.88 days after the mainshock.
 
-2314 M&ge;2.5 earthquakes within 47.75 km of the mainshock's epicenter.
+5409 M&ge;2 earthquakes within 47.75 km of the mainshock's epicenter.
 
 
 |  | First Hour | First Day | First Week | First Month | To Date |
 |-----|-----|-----|-----|-----|-----|
-| **M 2** | 238 | 1171 | 1651 | 1980 | 2314 |
+| **M 2** | 239 | 1851 | 3281 | 4307 | 5409 |
 | **M 3** | 226 | 608 | 770 | 881 | 977 |
 | **M 4** | 45 | 67 | 75 | 81 | 84 |
 | **M 5** | 2 | 2 | 2 | 2 | 2 |
@@ -69,7 +69,7 @@ This plot shows the magnitude vs time evolution of the sequence. The mainshock i
 ### Cumulative Number Plot
 *[(top)](#table-of-contents)*
 
-This plot shows the cumulative number of M&ge;2.5 aftershocks as a function of time since the mainshock.
+This plot shows the cumulative number of M&ge;2 aftershocks as a function of time since the mainshock.
 
 ![Time Func](resources/aftershocks_vs_time.png)
 
@@ -85,7 +85,7 @@ These plot shows the magnitude-number distrubtion of the aftershock sequence thu
 ## Significant Foreshocks
 *[(top)](#table-of-contents)*
 
-Foreshock(s) with M&ge;6 or with M&ge;M<sub>main</sub>-1.
+Foreshock(s) with M&ge;6 or with M&ge;M<sub>Mainshock</sub>-1.
 
 ### M6.4 1.41 days before
 *[(top)](#table-of-contents)*

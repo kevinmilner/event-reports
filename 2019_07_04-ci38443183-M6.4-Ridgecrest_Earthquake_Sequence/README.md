@@ -36,14 +36,14 @@ No UCERF3 fault sections are within 10km of this event's hypocenter.
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence. They were last updated at 2020/04/14 00:18:46 UTC, 284.28 days after the mainshock.
+These plots show the aftershock sequence. They were last updated at 2020/04/14 00:27:02 UTC, 284.29 days after the mainshock.
 
-1195 M&ge;2.5 earthquakes within 15.7 km of the mainshock's epicenter.
+2897 M&ge;2 earthquakes within 15.7 km of the mainshock's epicenter.
 
 
 |  | First Hour | First Day | First Week | First Month | To Date |
 |-----|-----|-----|-----|-----|-----|
-| **M 2** | 84 | 264 | 866 | 1028 | 1195 |
+| **M 2** | 149 | 608 | 1838 | 2340 | 2897 |
 | **M 3** | 54 | 139 | 415 | 466 | 511 |
 | **M 4** | 5 | 19 | 43 | 46 | 46 |
 | **M 5** | 0 | 1 | 2 | 2 | 2 |
@@ -70,7 +70,7 @@ This plot shows the magnitude vs time evolution of the sequence. The mainshock i
 ### Cumulative Number Plot
 *[(top)](#table-of-contents)*
 
-This plot shows the cumulative number of M&ge;2.5 aftershocks as a function of time since the mainshock.
+This plot shows the cumulative number of M&ge;2 aftershocks as a function of time since the mainshock.
 
 ![Time Func](resources/aftershocks_vs_time.png)
 
@@ -86,7 +86,7 @@ These plot shows the magnitude-number distrubtion of the aftershock sequence thu
 ## Significant Aftershocks
 *[(top)](#table-of-contents)*
 
-Aftershocks(s) with M&ge;6 or with M&ge;M<sub>main</sub>-1.
+Aftershocks(s) with M&ge;6 or with M&ge;M<sub>Mainshock</sub>-1.
 
 ### M7.1 1.41 days after
 *[(top)](#table-of-contents)*
@@ -108,7 +108,7 @@ Information and plots in the section are taken from the [USGS event page](https:
 | <center>**[PAGER](https://earthquake.usgs.gov/earthquakes/eventpage/ci38457511/pager/)**</center> | <center>**[Moment Tensor](https://earthquake.usgs.gov/earthquakes/eventpage/ci38457511/moment-tensor/)**</center> |
 | ![PEGER](resources/ci38457511_pager.png) | ![Mechanism](resources/ci38457511_mechanism.jpg) |
 
-1 UCERF3 fault sections are within 10km of this event's hypocenter:
+1 UCERF3 fault section is within 10km of this event's hypocenter:
 
 * Airport Lake: 5.61km
 

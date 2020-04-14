@@ -37,7 +37,7 @@ Information and plots in the section are taken from the [USGS event page](https:
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence. They were last updated at 2020/04/14 00:18:57 UTC, 9.93 days after the mainshock.
+These plots show the aftershock sequence. They were last updated at 2020/04/14 00:22:35 UTC, 9.94 days after the mainshock.
 
 1998 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.
 
