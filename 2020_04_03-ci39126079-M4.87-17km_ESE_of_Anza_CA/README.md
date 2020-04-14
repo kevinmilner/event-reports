@@ -46,21 +46,21 @@ Information and plots in the section are taken from the [USGS event page](https:
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence. They were last updated at 2020/04/14 00:31:41 UTC, 9.94 days after the mainshock.
+These plots show the aftershock sequence. They were last updated at 2020/04/14 01:42:51 UTC, 9.99 days after the mainshock.
 
-1998 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.
+2001 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.
 
 
 |  | First Hour | First Day | First Week | To Date |
 |-----|-----|-----|-----|-----|
-| **M 0** | 104 | 590 | 1866 | 1998 |
-| **M 1** | 88 | 255 | 573 | 585 |
+| **M 0** | 104 | 590 | 1867 | 2001 |
+| **M 1** | 88 | 255 | 573 | 587 |
 | **M 2** | 22 | 38 | 85 | 85 |
 | **M 3** | 3 | 6 | 12 | 12 |
 ### Aftershock Locations
 *[(top)](#table-of-contents)*
 
-Map view of the aftershock sequence, plotted as cyan circles. The mainshock  and foreshocks are plotted below in brown and green circles respectively, but may be obscured by aftershocks. Nearby UCERF3 fault traces are plotted in gray lines, and the region used to fetch aftershock data in a dashed dark gray line.
+Map view of the aftershock sequence, plotted as cyan circles. The mainshock  and foreshocks are plotted below in brown and magenta circles respectively, but may be obscured by aftershocks. Nearby UCERF3 fault traces are plotted in gray lines, and the region used to fetch aftershock data in a dashed dark gray line.
 
 | First Day | First Week | To Date |
 |-----|-----|-----|
@@ -69,7 +69,7 @@ Map view of the aftershock sequence, plotted as cyan circles. The mainshock  and
 ### Magnitude vs Time Plot
 *[(top)](#table-of-contents)*
 
-This plot shows the magnitude vs time evolution of the sequence. The mainshock is ploted as brown a brown circle, foreshocks are plotted as green circles, and aftershocks are plotted as cyan circles.
+This plot shows the magnitude vs time evolution of the sequence. The mainshock is ploted as brown a brown circle, foreshocks are plotted as magenta circles, and aftershocks are plotted as cyan circles.
 
 | First Week | To Date |
 |-----|-----|

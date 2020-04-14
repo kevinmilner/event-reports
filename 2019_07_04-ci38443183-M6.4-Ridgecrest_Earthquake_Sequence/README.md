@@ -45,7 +45,7 @@ No UCERF3 fault sections are within 10km of this event's hypocenter.
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence. They were last updated at 2020/04/14 00:32:55 UTC, 284.29 days after the mainshock.
+These plots show the aftershock sequence. They were last updated at 2020/04/14 01:43:13 UTC, 284.34 days after the mainshock.
 
 2897 M&ge;2 earthquakes within 15.7 km of the mainshock's epicenter.
 
@@ -61,7 +61,7 @@ These plots show the aftershock sequence. They were last updated at 2020/04/14 0
 ### Aftershock Locations
 *[(top)](#table-of-contents)*
 
-Map view of the aftershock sequence, plotted as cyan circles. The mainshock  and foreshocks are plotted below in brown and green circles respectively, but may be obscured by aftershocks. Nearby UCERF3 fault traces are plotted in gray lines, and the region used to fetch aftershock data in a dashed dark gray line.
+Map view of the aftershock sequence, plotted as cyan circles. The mainshock  and foreshocks are plotted below in brown and magenta circles respectively, but may be obscured by aftershocks. Nearby UCERF3 fault traces are plotted in gray lines, and the region used to fetch aftershock data in a dashed dark gray line.
 
 | First Day | First Week | To Date |
 |-----|-----|-----|
@@ -70,7 +70,7 @@ Map view of the aftershock sequence, plotted as cyan circles. The mainshock  and
 ### Magnitude vs Time Plot
 *[(top)](#table-of-contents)*
 
-This plot shows the magnitude vs time evolution of the sequence. The mainshock is ploted as brown a brown circle, foreshocks are plotted as green circles, and aftershocks are plotted as cyan circles.
+This plot shows the magnitude vs time evolution of the sequence. The mainshock is ploted as brown a brown circle, foreshocks are plotted as magenta circles, and aftershocks are plotted as cyan circles.
 
 | First Week | First Month | To Date |
 |-----|-----|-----|
