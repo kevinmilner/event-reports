@@ -10,6 +10,9 @@
   * [Magnitude vs Time Plot](#magnitude-vs-time-plot)
   * [Cumulative Number Plot](#cumulative-number-plot)
   * [Magnitude-Number Distributions](#magnitude-number-distributions)
+* [UCERF3-ETAS Forecast, udated 9.9 Days after mainshock](#ucerf3-etas-forecast-udated-99-days-after-mainshock)
+  * [ETAS Forecasted Magnitude vs Time](#etas-forecasted-magnitude-vs-time)
+  * [ETAS Spatial Distribution Forecast](#etas-spatial-distribution-forecast)
 
 ## Mainshock Details
 *[(top)](#table-of-contents)*
@@ -46,16 +49,16 @@ Information and plots in the section are taken from the [USGS event page](https:
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence. They were last updated at 2020/04/14 03:49:52 UTC, 10.08 days after the mainshock.
+These plots show the aftershock sequence. They were last updated at 2020/04/21 20:17:54 UTC, 17.77 days after the mainshock.
 
-2005 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.
+2147 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.
 
 
 |  | First Hour | First Day | First Week | To Date |
 |-----|-----|-----|-----|-----|
-| **M 0** | 104 | 590 | 1867 | 2005 |
-| **M 1** | 88 | 255 | 573 | 588 |
-| **M 2** | 22 | 38 | 85 | 85 |
+| **M 0** | 103 | 589 | 1871 | 2147 |
+| **M 1** | 87 | 254 | 570 | 607 |
+| **M 2** | 21 | 37 | 80 | 82 |
 | **M 3** | 3 | 6 | 12 | 12 |
 ### Aftershock Locations
 *[(top)](#table-of-contents)*
@@ -91,3 +94,39 @@ These plot shows the magnitude-number distrubtion of the aftershock sequence thu
 |-----|-----|
 | ![Incremental](resources/aftershocks_mag_num_incremental.png) | ![Cumulative](resources/aftershocks_mag_num_cumulative.png) |
 
+## UCERF3-ETAS Forecast, udated 9.9 Days after mainshock
+*[(top)](#table-of-contents)*
+
+This section gives results from the UCERF3-ETAS short-term forecasting model. This model is described in [Field et al. (2017)](http://bssa.geoscienceworld.org/lookup/doi/10.1785/0120160173), and computes probabilities of this sequence triggering subsequent aftershocks, including events on known faults. The model was updated with all observed aftershcoks up to 9.9 Days after the mainshock, and may be out of date, especially if large aftershocks have occurred subsequently or a significant amount of time has passed since the last update.
+
+Results are summarized below and should be considered preliminary. The exact timing, size, location, or number of aftershocks cannot be predicted, and all probabilities are uncertain.
+
+
+This table gives forecasted one week and one month probabilities.
+
+|  | 1 Week | 1 Month |
+|-----|-----|-----|
+| **M&ge;3** | 19.74% | 39.80% |
+| **M&ge;4** | 2.48% | 6.16% |
+| **M&ge;5** | 0.27% | 0.68% |
+| **M&ge;6** | 0.02% | 0.04% |
+| **M&ge;7** | 0.00% | 0.00% |
+
+### ETAS Forecasted Magnitude vs Time
+*[(top)](#table-of-contents)*
+
+These plots show the show the magnitude versus time probability function since simulation start. Observed event data lie on top, with those input to the simulation plotted as magenta circles and those that occurred after the simulation start time as cyan circles. Time is relative to the mainshock (M4.87, ci39126079, plotted as a brown circle). Probabilities are only shown above the minimum simulated magnitude, M=2.5.
+
+| One Week | To Date | One Month |
+|-----|-----|-----|
+| ![Mag-time plot](resources/mag_time_week.png) | ![Mag-time plot](resources/mag_time_full.png) | ![Mag-time plot](resources/mag_time_month.png) |
+
+### ETAS Spatial Distribution Forecast
+*[(top)](#table-of-contents)*
+
+These plots show the predicted spatial distribution of aftershocks above the given magnitude threshold and for the given time period. The 'Current' plot shows the forecasted spatial distribution to date, along with as any observed aftershocks overlaid with cyan circles. Observed aftershocks will be included in the week/month plots as well if the forecasted time window has elapsed.
+
+|  | 1 Week | Current (7.8 Day) | Forecast: 1 Month |
+|-----|-----|-----|-----|
+| **M&ge;2.5** | ![Map](resources/comcat_compare_prob_1wk_m2.5.png) | ![Map](resources/comcat_compare_prob_current_m2.5.png) | ![Map](resources/comcat_compare_prob_1mo_m2.5.png) |
+| **M&ge;5** | ![Map](resources/comcat_compare_prob_1wk_m5.png) | ![Map](resources/comcat_compare_prob_current_m5.png) | ![Map](resources/comcat_compare_prob_1mo_m5.png) |
