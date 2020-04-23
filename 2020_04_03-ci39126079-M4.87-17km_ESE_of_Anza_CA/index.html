@@ -30,15 +30,15 @@ img {
 </li>
 <li><a href="#sequence-details">Sequence Details</a>
 <ul>
+<li><a href="#magnitude-vs-time-plot">Magnitude Vs. Time Plot</a></li>
 <li><a href="#aftershock-locations">Aftershock Locations</a></li>
-<li><a href="#magnitude-vs-time-plot">Magnitude vs Time Plot</a></li>
 <li><a href="#cumulative-number-plot">Cumulative Number Plot</a></li>
-<li><a href="#magnitude-number-distributions">Magnitude-Number Distributions</a></li>
+<li><a href="#magnitude-number-distributions-mnds">Magnitude-Number Distributions (MNDs)</a></li>
 </ul>
 </li>
-<li><a href="#ucerf3-etas-forecast-udated-99-days-after-mainshock">UCERF3-ETAS Forecast, udated 9.9 Days after mainshock</a>
+<li><a href="#ucerf3-etas-forecast">UCERF3-ETAS Forecast</a>
 <ul>
-<li><a href="#etas-forecasted-magnitude-vs-time">ETAS Forecasted Magnitude vs Time</a></li>
+<li><a href="#etas-forecasted-magnitude-vs-time">ETAS Forecasted Magnitude Vs. Time</a></li>
 <li><a href="#etas-spatial-distribution-forecast">ETAS Spatial Distribution Forecast</a></li>
 </ul>
 </li>
@@ -81,17 +81,28 @@ img {
 </ul>
 <h2 id="sequence-details">Sequence Details</h2>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
-<p>These plots show the aftershock sequence. They were last updated at 2020/04/21 20:17:54 UTC, 17.77 days after the mainshock.</p>
-<p>2147 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.</p>
+<p>These plots show the aftershock sequence, using data sourced from <a href="https://earthquake.usgs.gov/data/comcat/">ComCat</a>. They were last updated at 2020/04/23 01:22:43 UTC, 18.98 days after the mainshock.</p>
+<p>2178 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.</p>
 <table>
 <thead>
 <tr><th></th><th>First Hour</th><th>First Day</th><th>First Week</th><th>To Date</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>M 0</strong></td><td>103</td><td>589</td><td>1871</td><td>2147</td></tr>
-<tr><td><strong>M 1</strong></td><td>87</td><td>254</td><td>570</td><td>607</td></tr>
+<tr><td><strong>M 0</strong></td><td>103</td><td>589</td><td>1871</td><td>2178</td></tr>
+<tr><td><strong>M 1</strong></td><td>87</td><td>254</td><td>570</td><td>612</td></tr>
 <tr><td><strong>M 2</strong></td><td>21</td><td>37</td><td>80</td><td>82</td></tr>
 <tr><td><strong>M 3</strong></td><td>3</td><td>6</td><td>12</td><td>12</td></tr>
+</tbody>
+</table>
+<h3 id="magnitude-vs-time-plot">Magnitude Vs. Time Plot</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>This plot shows the magnitude vs. time evolution of the sequence. The mainshock is ploted as a brown circle, foreshocks are plotted as magenta circles, and aftershocks are plotted as cyan circles.</p>
+<table>
+<thead>
+<tr><th>First Week</th><th>To Date</th></tr>
+</thead>
+<tbody>
+<tr><td><img src="resources/aftershocks_mag_vs_time_week.png" alt="Mag vs Time Plot" /></td><td><img src="resources/aftershocks_mag_vs_time.png" alt="Mag vs Time Plot" /></td></tr>
 </tbody>
 </table>
 <h3 id="aftershock-locations">Aftershock Locations</h3>
@@ -105,24 +116,13 @@ img {
 <tr><td><img src="resources/map_first_day.png" alt="First Day" /></td><td><img src="resources/map_first_week.png" alt="First Day" /></td><td><img src="resources/map_to_date.png" alt="First Day" /></td></tr>
 </tbody>
 </table>
-<h3 id="magnitude-vs-time-plot">Magnitude vs Time Plot</h3>
-<p><em><a href="#table-of-contents">(top)</a></em></p>
-<p>This plot shows the magnitude vs time evolution of the sequence. The mainshock is ploted as brown a brown circle, foreshocks are plotted as magenta circles, and aftershocks are plotted as cyan circles.</p>
-<table>
-<thead>
-<tr><th>First Week</th><th>To Date</th></tr>
-</thead>
-<tbody>
-<tr><td><img src="resources/aftershocks_mag_vs_time_week.png" alt="Mag vs Time Plot" /></td><td><img src="resources/aftershocks_mag_vs_time.png" alt="Mag vs Time Plot" /></td></tr>
-</tbody>
-</table>
 <h3 id="cumulative-number-plot">Cumulative Number Plot</h3>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
 <p>This plot shows the cumulative number of M&ge;0 aftershocks as a function of time since the mainshock.</p>
 <p><img src="resources/aftershocks_vs_time.png" alt="Time Func" /></p>
-<h3 id="magnitude-number-distributions">Magnitude-Number Distributions</h3>
+<h3 id="magnitude-number-distributions-mnds">Magnitude-Number Distributions (MNDs)</h3>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
-<p>These plot shows the magnitude-number distrubtion of the aftershock sequence thus far. The left plot gives an incremental distribution (the count in each magnitude bin), and the right plot a cumulative distribution (the count in or above each magnitude bin). The y-axis is logarithmic.</p>
+<p>These plot shows the magnitude-number distribution of the aftershock sequence thus far. The left plot gives an incremental distribution (the count in each magnitude bin), and the right plot a cumulative distribution (the count in or above each magnitude bin).</p>
 <table>
 <thead>
 <tr><th>Incremental MND</th><th>Cumulative MND</th></tr>
@@ -131,9 +131,10 @@ img {
 <tr><td><img src="resources/aftershocks_mag_num_incremental.png" alt="Incremental" /></td><td><img src="resources/aftershocks_mag_num_cumulative.png" alt="Cumulative" /></td></tr>
 </tbody>
 </table>
-<h2 id="ucerf3-etas-forecast-udated-99-days-after-mainshock">UCERF3-ETAS Forecast, udated 9.9 Days after mainshock</h2>
+<h2 id="ucerf3-etas-forecast">UCERF3-ETAS Forecast</h2>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
-<p>This section gives results from the UCERF3-ETAS short-term forecasting model. This model is described in <a href="http://bssa.geoscienceworld.org/lookup/doi/10.1785/0120160173">Field et al. (2017)</a>, and computes probabilities of this sequence triggering subsequent aftershocks, including events on known faults. The model was updated with all observed aftershcoks up to 9.9 Days after the mainshock, and may be out of date, especially if large aftershocks have occurred subsequently or a significant amount of time has passed since the last update.</p>
+<p>This section gives results from the UCERF3-ETAS short-term forecasting model. This model is described in <a href="http://bssa.geoscienceworld.org/lookup/doi/10.1785/0120160173">Field et al. (2017)</a>, and computes probabilities of this sequence triggering subsequent aftershocks, including events on known faults.</p>
+<p>Probabilities are inherantly time-dependent. Those stated here are for time periods beginning the instant when this report was generated, 2020/04/22 18:22:43 PDT. The model was updated with all observed aftershcoks up to 9.9 days after the mainshock, and may be out of date, especially if large aftershocks have occurred subsequently or a significant amount of time has passed since the last update.</p>
 <p>Results are summarized below and should be considered preliminary. The exact timing, size, location, or number of aftershocks cannot be predicted, and all probabilities are uncertain.</p>
 <p>This table gives forecasted one week and one month probabilities.</p>
 <table>
@@ -141,22 +142,22 @@ img {
 <tr><th></th><th>1 Week</th><th>1 Month</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>M&ge;3</strong></td><td>19.74%</td><td>39.80%</td></tr>
-<tr><td><strong>M&ge;4</strong></td><td>2.48%</td><td>6.16%</td></tr>
-<tr><td><strong>M&ge;5</strong></td><td>0.27%</td><td>0.68%</td></tr>
-<tr><td><strong>M&ge;6</strong></td><td>0.02%</td><td>0.04%</td></tr>
+<tr><td><strong>M&ge;3</strong></td><td>12.47%</td><td>29.74%</td></tr>
+<tr><td><strong>M&ge;4</strong></td><td>1.56%</td><td>4.28%</td></tr>
+<tr><td><strong>M&ge;5</strong></td><td>0.15%</td><td>0.46%</td></tr>
+<tr><td><strong>M&ge;6</strong></td><td>0.00%</td><td>0.02%</td></tr>
 <tr><td><strong>M&ge;7</strong></td><td>0.00%</td><td>0.00%</td></tr>
 </tbody>
 </table>
-<h3 id="etas-forecasted-magnitude-vs-time">ETAS Forecasted Magnitude vs Time</h3>
+<h3 id="etas-forecasted-magnitude-vs-time">ETAS Forecasted Magnitude Vs. Time</h3>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
 <p>These plots show the show the magnitude versus time probability function since simulation start. Observed event data lie on top, with those input to the simulation plotted as magenta circles and those that occurred after the simulation start time as cyan circles. Time is relative to the mainshock (M4.87, ci39126079, plotted as a brown circle). Probabilities are only shown above the minimum simulated magnitude, M=2.5.</p>
 <table>
 <thead>
-<tr><th>One Week</th><th>To Date</th><th>One Month</th></tr>
+<tr><th>One Week</th><th>One Month</th></tr>
 </thead>
 <tbody>
-<tr><td><img src="resources/mag_time_week.png" alt="Mag-time plot" /></td><td><img src="resources/mag_time_full.png" alt="Mag-time plot" /></td><td><img src="resources/mag_time_month.png" alt="Mag-time plot" /></td></tr>
+<tr><td><img src="resources/mag_time_week.png" alt="Mag-time plot" /></td><td><img src="resources/mag_time_month.png" alt="Mag-time plot" /></td></tr>
 </tbody>
 </table>
 <h3 id="etas-spatial-distribution-forecast">ETAS Spatial Distribution Forecast</h3>
@@ -164,11 +165,11 @@ img {
 <p>These plots show the predicted spatial distribution of aftershocks above the given magnitude threshold and for the given time period. The 'Current' plot shows the forecasted spatial distribution to date, along with as any observed aftershocks overlaid with cyan circles. Observed aftershocks will be included in the week/month plots as well if the forecasted time window has elapsed.</p>
 <table>
 <thead>
-<tr><th></th><th>1 Week</th><th>Current (7.8 Day)</th><th>Forecast: 1 Month</th></tr>
+<tr><th></th><th>Forecast: 1 Week</th><th>Forecast: 1 Month</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>M&ge;2.5</strong></td><td><img src="resources/comcat_compare_prob_1wk_m2.5.png" alt="Map" /></td><td><img src="resources/comcat_compare_prob_current_m2.5.png" alt="Map" /></td><td><img src="resources/comcat_compare_prob_1mo_m2.5.png" alt="Map" /></td></tr>
-<tr><td><strong>M&ge;5</strong></td><td><img src="resources/comcat_compare_prob_1wk_m5.png" alt="Map" /></td><td><img src="resources/comcat_compare_prob_current_m5.png" alt="Map" /></td><td><img src="resources/comcat_compare_prob_1mo_m5.png" alt="Map" /></td></tr>
+<tr><td><strong>M&ge;3</strong></td><td><img src="resources/comcat_compare_prob_1wk_m3.png" alt="Map" /></td><td><img src="resources/comcat_compare_prob_1mo_m3.png" alt="Map" /></td></tr>
+<tr><td><strong>M&ge;5</strong></td><td><img src="resources/comcat_compare_prob_1wk_m5.png" alt="Map" /></td><td><img src="resources/comcat_compare_prob_1mo_m5.png" alt="Map" /></td></tr>
 </tbody>
 </table>
 </body>
