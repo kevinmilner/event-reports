@@ -21,8 +21,8 @@ Information and plots in the section are taken from the [USGS event page](https:
 | Magnitude | 4.54 (mw) |
 | Time (UTC) | Sun, 10 May 2020 22:07:40 UTC |
 | Time (PDT) | Sun, 10 May 2020 15:07:40 PDT |
-| Location | 33.018833, -116.0195 |
-| Depth | 10.04 km |
+| Location | 33.018333, -116.020164 |
+| Depth | 10.16 km |
 | Status | reviewed |
 
 ### USGS Products
@@ -40,21 +40,21 @@ Information and plots in the section are taken from the [USGS event page](https:
 
 2 UCERF3 fault sections are within 10km of this event's hypocenter:
 
-* San Jacinto (Borrego): 1.55km
-* San Jacinto (Superstition Mtn): 7.4km
+* San Jacinto (Borrego): 1.61km
+* San Jacinto (Superstition Mtn): 7.45km
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence, using data sourced from [ComCat](https://earthquake.usgs.gov/data/comcat/). They were last updated at 2020/05/11 00:59:50 UTC, 2.87 hours after the mainshock.
+These plots show the aftershock sequence, using data sourced from [ComCat](https://earthquake.usgs.gov/data/comcat/). They were last updated at 2020/05/11 06:14:49 UTC, 8.12 hours after the mainshock.
 
-29 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.
+54 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.
 
 
 |  | First Hour | To Date |
 |-----|-----|-----|
-| **M 0** | 16 | 29 |
-| **M 1** | 16 | 29 |
-| **M 2** | 2 | 4 |
+| **M 0** | 16 | 54 |
+| **M 1** | 16 | 54 |
+| **M 2** | 2 | 6 |
 ### Magnitude Vs. Time Plot
 *[(top)](#table-of-contents)*
 
