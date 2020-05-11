@@ -45,16 +45,16 @@ Information and plots in the section are taken from the [USGS event page](https:
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence, using data sourced from [ComCat](https://earthquake.usgs.gov/data/comcat/). They were last updated at 2020/05/11 06:14:49 UTC, 8.12 hours after the mainshock.
+These plots show the aftershock sequence, using data sourced from [ComCat](https://earthquake.usgs.gov/data/comcat/). They were last updated at 2020/05/11 15:54:39 UTC, 17.78 hours after the mainshock.
 
-54 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.
+79 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.
 
 
 |  | First Hour | To Date |
 |-----|-----|-----|
-| **M 0** | 16 | 54 |
-| **M 1** | 16 | 54 |
-| **M 2** | 2 | 6 |
+| **M 0** | 16 | 79 |
+| **M 1** | 16 | 77 |
+| **M 2** | 2 | 8 |
 ### Magnitude Vs. Time Plot
 *[(top)](#table-of-contents)*
 
