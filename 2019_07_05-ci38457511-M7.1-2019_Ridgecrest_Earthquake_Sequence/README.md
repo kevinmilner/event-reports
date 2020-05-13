@@ -6,12 +6,16 @@
   * [USGS Products](#usgs-products)
   * [Nearby Faults](#nearby-faults)
 * [Sequence Details](#sequence-details)
+  * [Magnitude Vs. Time Plot](#magnitude-vs-time-plot)
   * [Aftershock Locations](#aftershock-locations)
-  * [Magnitude vs Time Plot](#magnitude-vs-time-plot)
   * [Cumulative Number Plot](#cumulative-number-plot)
-  * [Magnitude-Number Distributions](#magnitude-number-distributions)
+  * [Magnitude-Number Distributions (MNDs)](#magnitude-number-distributions-mnds)
 * [Significant Foreshocks](#significant-foreshocks)
   * [M6.4 1.41 days before](#m64-141-days-before)
+* [UCERF3-ETAS Forecast](#ucerf3-etas-forecast)
+  * [ETAS Forecasted Magnitude Vs. Time](#etas-forecasted-magnitude-vs-time)
+  * [ETAS Spatial Distribution Forecast](#etas-spatial-distribution-forecast)
+  * [ETAS Fault Trigger Probabilities](#etas-fault-trigger-probabilities)
 
 ## Mainshock Details
 *[(top)](#table-of-contents)*
@@ -46,17 +50,26 @@ Information and plots in the section are taken from the [USGS event page](https:
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence. They were last updated at 2020/04/14 03:51:04 UTC, 283.02 days after the mainshock.
+These plots show the aftershock sequence, using data sourced from [ComCat](https://earthquake.usgs.gov/data/comcat/). They were last updated at 2020/05/13 06:52:37 UTC, 312.15 days after the mainshock.
 
-5410 M&ge;2 earthquakes within 47.75 km of the mainshock's epicenter.
+5465 M&ge;2 earthquakes within 47.75 km of the mainshock's epicenter.
 
 
 |  | First Hour | First Day | First Week | First Month | To Date |
 |-----|-----|-----|-----|-----|-----|
-| **M 2** | 239 | 1851 | 3281 | 4307 | 5410 |
-| **M 3** | 226 | 608 | 770 | 881 | 977 |
-| **M 4** | 45 | 67 | 75 | 81 | 84 |
+| **M 2** | 239 | 1851 | 3281 | 4310 | 5465 |
+| **M 3** | 226 | 608 | 770 | 883 | 983 |
+| **M 4** | 45 | 67 | 75 | 81 | 85 |
 | **M 5** | 2 | 2 | 2 | 2 | 2 |
+### Magnitude Vs. Time Plot
+*[(top)](#table-of-contents)*
+
+This plot shows the magnitude vs. time evolution of the sequence. The mainshock is ploted as a brown circle, foreshocks are plotted as magenta circles, and aftershocks are plotted as cyan circles.
+
+| First Week | First Month | To Date |
+|-----|-----|-----|
+| ![Mag vs Time Plot](resources/aftershocks_mag_vs_time_week.png) | ![Mag vs Time Plot](resources/aftershocks_mag_vs_time_month.png) | ![Mag vs Time Plot](resources/aftershocks_mag_vs_time.png) |
+
 ### Aftershock Locations
 *[(top)](#table-of-contents)*
 
@@ -66,15 +79,6 @@ Map view of the aftershock sequence, plotted as cyan circles. The mainshock  and
 |-----|-----|-----|
 | ![First Day](resources/map_first_day.png) | ![First Day](resources/map_first_week.png) | ![First Day](resources/map_to_date.png) |
 
-### Magnitude vs Time Plot
-*[(top)](#table-of-contents)*
-
-This plot shows the magnitude vs time evolution of the sequence. The mainshock is ploted as brown a brown circle, foreshocks are plotted as magenta circles, and aftershocks are plotted as cyan circles.
-
-| First Week | First Month | To Date |
-|-----|-----|-----|
-| ![Mag vs Time Plot](resources/aftershocks_mag_vs_time_week.png) | ![Mag vs Time Plot](resources/aftershocks_mag_vs_time_month.png) | ![Mag vs Time Plot](resources/aftershocks_mag_vs_time.png) |
-
 ### Cumulative Number Plot
 *[(top)](#table-of-contents)*
 
@@ -82,10 +86,10 @@ This plot shows the cumulative number of M&ge;2 aftershocks as a function of tim
 
 ![Time Func](resources/aftershocks_vs_time.png)
 
-### Magnitude-Number Distributions
+### Magnitude-Number Distributions (MNDs)
 *[(top)](#table-of-contents)*
 
-These plot shows the magnitude-number distrubtion of the aftershock sequence thus far. The left plot gives an incremental distribution (the count in each magnitude bin), and the right plot a cumulative distribution (the count in or above each magnitude bin). The y-axis is logarithmic.
+These plot shows the magnitude-number distribution of the aftershock sequence thus far. The left plot gives an incremental distribution (the count in each magnitude bin), and the right plot a cumulative distribution (the count in or above each magnitude bin).
 
 | Incremental MND | Cumulative MND |
 |-----|-----|
@@ -126,3 +130,60 @@ Information and plots in the section are taken from the [USGS event page](https:
 No UCERF3 fault sections are within 10km of this event's hypocenter.
 
 
+## UCERF3-ETAS Forecast
+*[(top)](#table-of-contents)*
+
+This section gives results from the UCERF3-ETAS short-term forecasting model. This model is described in [Field et al. (2017)](http://bssa.geoscienceworld.org/lookup/doi/10.1785/0120160173), and computes probabilities of this sequence triggering subsequent aftershocks, including events on known faults.
+
+Probabilities are inherantly time-dependent. Those stated here are for time periods beginning the instant when this report was generated, 2020/05/12 23:52:37 PDT. The model was updated with all observed aftershcoks up to 296.8 days after the mainshock, and may be out of date, especially if large aftershocks have occurred subsequently or a significant amount of time has passed since the last update.
+
+Results are summarized below and should be considered preliminary. The exact timing, size, location, or number of aftershocks cannot be predicted, and all probabilities are uncertain.
+
+
+This table gives forecasted one week and one month probabilities for events triggered by this sequence; it does not include the long-term probability of such events.
+
+|  | 1 Week | 1 Month |
+|-----|-----|-----|
+| **M&ge;3** | 80.356% | 99.859% |
+| **M&ge;4** | 16.439% | 51.082% |
+| **M&ge;5** | 1.896% | 7.411% |
+| **M&ge;6** | 0.185% | 0.756% |
+| **M&ge;7** | 0.014% | 0.059% |
+| **M&ge;8** | <0.001% | 0.001% |
+
+### ETAS Forecasted Magnitude Vs. Time
+*[(top)](#table-of-contents)*
+
+These plots show the show the magnitude versus time probability function since simulation start. Observed event data lie on top, with those input to the simulation plotted as magenta circles and those that occurred after the simulation start time as cyan circles. Time is relative to the mainshock (M7.1, ci38457511, plotted as a brown circle). Probabilities are only shown above the minimum simulated magnitude, M=2.5.
+
+| One Week | One Month |
+|-----|-----|
+| ![Mag-time plot](resources/mag_time_week.png) | ![Mag-time plot](resources/mag_time_month.png) |
+
+### ETAS Spatial Distribution Forecast
+*[(top)](#table-of-contents)*
+
+These plots show the predicted spatial distribution of aftershocks above the given magnitude threshold and for the given time period. The 'Current' plot shows the forecasted spatial distribution to date, along with as any observed aftershocks overlaid with cyan circles. Observed aftershocks will be included in the week/month plots as well if the forecasted time window has elapsed.
+
+|  | Forecast: 1 Week | Forecast: 1 Month |
+|-----|-----|-----|
+| **M&ge;3** | ![Map](resources/comcat_compare_prob_1wk_m3.png) | ![Map](resources/comcat_compare_prob_1mo_m3.png) |
+| **M&ge;5** | ![Map](resources/comcat_compare_prob_1wk_m5.png) | ![Map](resources/comcat_compare_prob_1mo_m5.png) |
+
+### ETAS Fault Trigger Probabilities
+*[(top)](#table-of-contents)*
+
+The table below summarizes the probabilities of this sequence triggering large supra-seismogenic aftershocks on nearby known active faults.
+
+| Fault Section | 1 wk supra-seis prob | 1 mo supra-seis prob | 1 wk M&ge;7 prob | 1 mo M&ge;7 prob |
+|-----|-----|-----|-----|-----|
+| **Garlock (Central)** | 0.022% | 0.096% | 0.011% | 0.042% |
+| **Tank Canyon** | 0.017% | 0.077% | <0.001% | <0.001% |
+| **Little Lake** | 0.013% | 0.051% | 0.002% | 0.006% |
+| **Airport Lake** | 0.011% | 0.039% | 0.002% | 0.005% |
+| **Owl Lake** | 0.007% | 0.028% | 0.002% | 0.012% |
+| **Panamint Valley** | 0.007% | 0.025% | 0.007% | 0.017% |
+| **Garlock (East)** | 0.004% | 0.022% | 0.003% | 0.013% |
+| **Ash Hill** | 0.002% | 0.008% | <0.001% | <0.001% |
+| **Hunter Mountain-Saline Valley** | 0.004% | 0.011% | 0.003% | 0.010% |
+| **Blackwater** | 0.001% | 0.005% | <0.001% | <0.001% |

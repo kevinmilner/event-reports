@@ -13,6 +13,7 @@
 * [UCERF3-ETAS Forecast](#ucerf3-etas-forecast)
   * [ETAS Forecasted Magnitude Vs. Time](#etas-forecasted-magnitude-vs-time)
   * [ETAS Spatial Distribution Forecast](#etas-spatial-distribution-forecast)
+  * [ETAS Fault Trigger Probabilities](#etas-fault-trigger-probabilities)
 
 ## Mainshock Details
 *[(top)](#table-of-contents)*
@@ -48,15 +49,15 @@ Information and plots in the section are taken from the [USGS event page](https:
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence, using data sourced from [ComCat](https://earthquake.usgs.gov/data/comcat/). They were last updated at 2020/05/12 21:38:29 UTC, 47.51 hours after the mainshock.
+These plots show the aftershock sequence, using data sourced from [ComCat](https://earthquake.usgs.gov/data/comcat/). They were last updated at 2020/05/13 06:31:27 UTC, 2.35 days after the mainshock.
 
-101 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.
+103 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.
 
 
 |  | First Hour | First Day | To Date |
 |-----|-----|-----|-----|
-| **M 0** | 23 | 93 | 101 |
-| **M 1** | 21 | 87 | 95 |
+| **M 0** | 23 | 94 | 103 |
+| **M 1** | 21 | 88 | 97 |
 | **M 2** | 2 | 8 | 9 |
 | **M 3** | 0 | 0 | 1 |
 ### Magnitude Vs. Time Plot
@@ -96,20 +97,20 @@ These plot shows the magnitude-number distribution of the aftershock sequence th
 
 This section gives results from the UCERF3-ETAS short-term forecasting model. This model is described in [Field et al. (2017)](http://bssa.geoscienceworld.org/lookup/doi/10.1785/0120160173), and computes probabilities of this sequence triggering subsequent aftershocks, including events on known faults.
 
-Probabilities are inherantly time-dependent. Those stated here are for time periods beginning the instant when this report was generated, 2020/05/12 14:38:29 PDT. The model has not been updated with any observed aftershocks and may be out of date, especially if large aftershock have occurred subsequently or a significant amount of time has passed since the mainshock.
+Probabilities are inherantly time-dependent. Those stated here are for time periods beginning the instant when this report was generated, 2020/05/12 23:31:27 PDT. The model was updated with all observed aftershcoks up to 1.9 days after the mainshock, and may be out of date, especially if large aftershocks have occurred subsequently or a significant amount of time has passed since the last update.
 
 Results are summarized below and should be considered preliminary. The exact timing, size, location, or number of aftershocks cannot be predicted, and all probabilities are uncertain.
 
 
-This table gives forecasted one week and one month probabilities.
+This table gives forecasted one week and one month probabilities for events triggered by this sequence; it does not include the long-term probability of such events.
 
 |  | 1 Week | 1 Month |
 |-----|-----|-----|
-| **M&ge;3** | 23.08% | 36.56% |
-| **M&ge;4** | 2.93% | 5.14% |
-| **M&ge;5** | 0.35% | 0.59% |
-| **M&ge;6** | 0.02% | 0.03% |
-| **M&ge;7** | 0.00% | 0.00% |
+| **M&ge;3** | 19.685% | 32.854% |
+| **M&ge;4** | 2.295% | 4.313% |
+| **M&ge;5** | 0.230% | 0.442% |
+| **M&ge;6** | 0.006% | 0.012% |
+| **M&ge;7** | <0.001% | <0.001% |
 
 ### ETAS Forecasted Magnitude Vs. Time
 *[(top)](#table-of-contents)*
@@ -129,3 +130,21 @@ These plots show the predicted spatial distribution of aftershocks above the giv
 |-----|-----|-----|
 | **M&ge;3** | ![Map](resources/comcat_compare_prob_1wk_m3.png) | ![Map](resources/comcat_compare_prob_1mo_m3.png) |
 | **M&ge;5** | ![Map](resources/comcat_compare_prob_1wk_m5.png) | ![Map](resources/comcat_compare_prob_1mo_m5.png) |
+
+### ETAS Fault Trigger Probabilities
+*[(top)](#table-of-contents)*
+
+The table below summarizes the probabilities of this sequence triggering large supra-seismogenic aftershocks on nearby known active faults.
+
+| Fault Section | 1 wk supra-seis prob | 1 mo supra-seis prob | 1 wk M&ge;7 prob | 1 mo M&ge;7 prob |
+|-----|-----|-----|-----|-----|
+| **San Jacinto (Superstition Mtn)** | 0.002% | 0.005% | <0.001% | <0.001% |
+| **Elsinore (Coyote Mountains)** | <0.001% | 0.001% | <0.001% | <0.001% |
+| **San Andreas (Coachella) rev** | <0.001% | <0.001% | <0.001% | <0.001% |
+| **Imperial** | <0.001% | <0.001% | <0.001% | <0.001% |
+| **Brawley (Seismic Zone) alt 1** | <0.001% | <0.001% | <0.001% | <0.001% |
+| **Elmore Ranch** | 0.001% | 0.001% | <0.001% | <0.001% |
+| **Superstition Hills** | <0.001% | <0.001% | <0.001% | <0.001% |
+| **San Jacinto (Borrego)** | <0.001% | <0.001% | <0.001% | <0.001% |
+| **Ortigalita (South)** | <0.001% | <0.001% | <0.001% | <0.001% |
+| **Monterey Bay-Tularcitos** | <0.001% | <0.001% | <0.001% | <0.001% |
