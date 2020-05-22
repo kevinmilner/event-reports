@@ -66,7 +66,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 256,Earthquake Valley (So Extension),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 671,East Huasna 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 672,Eaton Roughs 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-96,Elmore Ranch,1.0E-5,0.0,1.0E-5,1.0E-5,1.0E-5,1.0E-5,1.0E-5
+96,Elmore Ranch,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 103,Elsinore (Coyote Mountains),4.0E-5,0.0,0.0,1.0E-5,4.0E-5,4.0E-5,1.0E-5
 296,Elsinore (Glen Ivy) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 102,Elsinore (Julian),0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -256,7 +256,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 119,San Jacinto (San Bernardino),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 289,San Jacinto (San Jacinto Valley) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 401,San Jacinto (Stepovers Combined),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-28,San Jacinto (Superstition Mtn),1.5E-4,0.0,2.0E-5,5.0E-5,9.0E-5,1.5E-4,6.0E-5
+28,San Jacinto (Superstition Mtn),1.1E-4,0.0,0.0,1.0E-5,5.0E-5,1.1E-4,5.0E-5
 143,San Joaquin Hills,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 107,San Jose,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 31,San Juan,0.0,0.0,0.0,0.0,0.0,0.0,0.0

@@ -506,10 +506,10 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 504,"Eaton Roughs 2011 CFM, Subsection 13",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 505,"Elmore Ranch, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 506,"Elmore Ranch, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-507,"Elmore Ranch, Subsection 2",1.0E-5,0.0,1.0E-5,1.0E-5,1.0E-5,1.0E-5,1.0E-5
-508,"Elmore Ranch, Subsection 3",1.0E-5,0.0,1.0E-5,1.0E-5,1.0E-5,1.0E-5,1.0E-5
-509,"Elmore Ranch, Subsection 4",1.0E-5,0.0,1.0E-5,1.0E-5,1.0E-5,1.0E-5,1.0E-5
-510,"Elmore Ranch, Subsection 5",1.0E-5,0.0,1.0E-5,1.0E-5,1.0E-5,1.0E-5,1.0E-5
+507,"Elmore Ranch, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+508,"Elmore Ranch, Subsection 3",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+509,"Elmore Ranch, Subsection 4",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+510,"Elmore Ranch, Subsection 5",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 511,"Elsinore (Coyote Mountains), Subsection 0",4.0E-5,0.0,0.0,1.0E-5,4.0E-5,4.0E-5,1.0E-5
 512,"Elsinore (Coyote Mountains), Subsection 1",4.0E-5,0.0,0.0,1.0E-5,4.0E-5,4.0E-5,1.0E-5
 513,"Elsinore (Coyote Mountains), Subsection 2",3.0E-5,0.0,0.0,1.0E-5,3.0E-5,3.0E-5,0.0
@@ -2191,11 +2191,11 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 2189,"San Jacinto (Stepovers Combined), Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2190,"San Jacinto (Stepovers Combined), Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2191,"San Jacinto (Stepovers Combined), Subsection 3",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2192,"San Jacinto (Superstition Mtn), Subsection 0",1.5E-4,0.0,2.0E-5,5.0E-5,9.0E-5,1.5E-4,6.0E-5
-2193,"San Jacinto (Superstition Mtn), Subsection 1",1.5E-4,0.0,2.0E-5,5.0E-5,9.0E-5,1.5E-4,6.0E-5
-2194,"San Jacinto (Superstition Mtn), Subsection 2",1.4E-4,0.0,1.0E-5,4.0E-5,8.0E-5,1.4E-4,6.0E-5
-2195,"San Jacinto (Superstition Mtn), Subsection 3",1.3E-4,0.0,1.0E-5,3.0E-5,7.0E-5,1.3E-4,5.0E-5
-2196,"San Jacinto (Superstition Mtn), Subsection 4",2.0E-5,0.0,0.0,1.0E-5,1.0E-5,2.0E-5,2.0E-5
+2192,"San Jacinto (Superstition Mtn), Subsection 0",1.1E-4,0.0,0.0,1.0E-5,5.0E-5,1.1E-4,5.0E-5
+2193,"San Jacinto (Superstition Mtn), Subsection 1",1.1E-4,0.0,0.0,1.0E-5,5.0E-5,1.1E-4,5.0E-5
+2194,"San Jacinto (Superstition Mtn), Subsection 2",1.1E-4,0.0,0.0,1.0E-5,5.0E-5,1.1E-4,5.0E-5
+2195,"San Jacinto (Superstition Mtn), Subsection 3",1.0E-4,0.0,0.0,0.0,4.0E-5,1.0E-4,4.0E-5
+2196,"San Jacinto (Superstition Mtn), Subsection 4",1.0E-5,0.0,0.0,0.0,0.0,1.0E-5,1.0E-5
 2197,"San Joaquin Hills, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2198,"San Joaquin Hills, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2199,"San Joaquin Hills, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
