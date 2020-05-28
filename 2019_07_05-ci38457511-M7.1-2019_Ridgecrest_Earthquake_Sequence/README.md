@@ -50,15 +50,15 @@ Information and plots in the section are taken from the [USGS event page](https:
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence, using data sourced from [ComCat](https://earthquake.usgs.gov/data/comcat/). They were last updated at 2020/05/13 06:52:37 UTC, 312.15 days after the mainshock.
+These plots show the aftershock sequence, using data sourced from [ComCat](https://earthquake.usgs.gov/data/comcat/). They were last updated at 2020/05/28 21:00:04 UTC, 327.74 days after the mainshock.
 
-5465 M&ge;2 earthquakes within 47.75 km of the mainshock's epicenter.
+5485 M&ge;2 earthquakes within 47.75 km of the mainshock's epicenter.
 
 
 |  | First Hour | First Day | First Week | First Month | To Date |
 |-----|-----|-----|-----|-----|-----|
-| **M 2** | 239 | 1851 | 3281 | 4310 | 5465 |
-| **M 3** | 226 | 608 | 770 | 883 | 983 |
+| **M 2** | 239 | 1851 | 3281 | 4310 | 5485 |
+| **M 3** | 226 | 608 | 770 | 883 | 989 |
 | **M 4** | 45 | 67 | 75 | 81 | 85 |
 | **M 5** | 2 | 2 | 2 | 2 | 2 |
 ### Magnitude Vs. Time Plot
@@ -135,7 +135,7 @@ No UCERF3 fault sections are within 10km of this event's hypocenter.
 
 This section gives results from the UCERF3-ETAS short-term forecasting model. This model is described in [Field et al. (2017)](http://bssa.geoscienceworld.org/lookup/doi/10.1785/0120160173), and computes probabilities of this sequence triggering subsequent aftershocks, including events on known faults.
 
-Probabilities are inherantly time-dependent. Those stated here are for time periods beginning the instant when this report was generated, 2020/05/12 23:52:37 PDT. The model was updated with all observed aftershcoks up to 296.8 days after the mainshock, and may be out of date, especially if large aftershocks have occurred subsequently or a significant amount of time has passed since the last update.
+Probabilities are inherantly time-dependent. Those stated here are for time periods beginning the instant when this report was generated, 2020/05/28 14:00:04 PDT. The model was updated with all observed aftershcoks up to 327.6 days after the mainshock, and may be out of date, especially if large aftershocks have occurred subsequently or a significant amount of time has passed since the last update.
 
 Results are summarized below and should be considered preliminary. The exact timing, size, location, or number of aftershocks cannot be predicted, and all probabilities are uncertain.
 
@@ -144,12 +144,12 @@ This table gives forecasted one week and one month probabilities for events trig
 
 |  | 1 Week | 1 Month |
 |-----|-----|-----|
-| **M&ge;3** | 80.356% | 99.859% |
-| **M&ge;4** | 16.439% | 51.082% |
-| **M&ge;5** | 1.896% | 7.411% |
-| **M&ge;6** | 0.185% | 0.756% |
-| **M&ge;7** | 0.014% | 0.059% |
-| **M&ge;8** | <0.001% | 0.001% |
+| **M&ge;3** | 77.738% | 99.780% |
+| **M&ge;4** | 14.856% | 48.700% |
+| **M&ge;5** | 1.673% | 6.942% |
+| **M&ge;6** | 0.154% | 0.633% |
+| **M&ge;7** | 0.013% | 0.044% |
+| **M&ge;8** | <0.001% | <0.001% |
 
 ### ETAS Forecasted Magnitude Vs. Time
 *[(top)](#table-of-contents)*
@@ -177,13 +177,13 @@ The table below summarizes the probabilities of this sequence triggering large s
 
 | Fault Section | 1 wk supra-seis prob | 1 mo supra-seis prob | 1 wk M&ge;7 prob | 1 mo M&ge;7 prob |
 |-----|-----|-----|-----|-----|
-| **Garlock (Central)** | 0.022% | 0.096% | 0.011% | 0.042% |
-| **Tank Canyon** | 0.017% | 0.077% | <0.001% | <0.001% |
-| **Little Lake** | 0.013% | 0.051% | 0.002% | 0.006% |
-| **Airport Lake** | 0.011% | 0.039% | 0.002% | 0.005% |
-| **Owl Lake** | 0.007% | 0.028% | 0.002% | 0.012% |
-| **Panamint Valley** | 0.007% | 0.025% | 0.007% | 0.017% |
-| **Garlock (East)** | 0.004% | 0.022% | 0.003% | 0.013% |
-| **Ash Hill** | 0.002% | 0.008% | <0.001% | <0.001% |
-| **Hunter Mountain-Saline Valley** | 0.004% | 0.011% | 0.003% | 0.010% |
-| **Blackwater** | 0.001% | 0.005% | <0.001% | <0.001% |
+| **Garlock (Central)** | 0.020% | 0.080% | 0.008% | 0.029% |
+| **Tank Canyon** | 0.006% | 0.052% | 0.001% | 0.001% |
+| **Little Lake** | 0.013% | 0.053% | 0.002% | 0.005% |
+| **Airport Lake** | 0.013% | 0.042% | 0.001% | 0.004% |
+| **Owl Lake** | 0.005% | 0.016% | 0.002% | 0.007% |
+| **Panamint Valley** | 0.006% | 0.019% | 0.004% | 0.011% |
+| **Garlock (East)** | 0.004% | 0.012% | 0.003% | 0.010% |
+| **Ash Hill** | 0.003% | 0.011% | <0.001% | <0.001% |
+| **Hunter Mountain-Saline Valley** | 0.002% | 0.009% | 0.002% | 0.008% |
+| **Blackwater** | 0.001% | 0.002% | <0.001% | <0.001% |
