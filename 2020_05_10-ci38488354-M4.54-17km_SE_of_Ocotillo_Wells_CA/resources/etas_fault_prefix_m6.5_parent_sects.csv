@@ -249,14 +249,14 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 660,San Gregorio (North) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 661,San Gregorio (South) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 293,San Jacinto (Anza) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-99,San Jacinto (Borrego),4.0E-5,0.0,1.0E-5,1.0E-5,1.0E-5,4.0E-5,3.0E-5
+99,San Jacinto (Borrego),3.0E-5,0.0,0.0,0.0,0.0,3.0E-5,2.0E-5
 292,San Jacinto (Clark) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 101,San Jacinto (Coyote Creek),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 901,San Jacinto (Lytle Creek connector),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 119,San Jacinto (San Bernardino),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 289,San Jacinto (San Jacinto Valley) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 401,San Jacinto (Stepovers Combined),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-28,San Jacinto (Superstition Mtn),8.0E-5,0.0,1.0E-5,1.0E-5,3.0E-5,8.0E-5,6.0E-5
+28,San Jacinto (Superstition Mtn),7.0E-5,0.0,0.0,0.0,2.0E-5,7.0E-5,5.0E-5
 143,San Joaquin Hills,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 107,San Jose,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 31,San Juan,0.0,0.0,0.0,0.0,0.0,0.0,0.0

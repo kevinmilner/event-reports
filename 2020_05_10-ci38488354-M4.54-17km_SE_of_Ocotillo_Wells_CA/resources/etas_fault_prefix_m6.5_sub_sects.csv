@@ -2158,12 +2158,12 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 2156,"San Jacinto (Anza) rev, Subsection 3",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2157,"San Jacinto (Anza) rev, Subsection 4",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2158,"San Jacinto (Anza) rev, Subsection 5",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2159,"San Jacinto (Borrego), Subsection 0",1.0E-5,0.0,1.0E-5,1.0E-5,1.0E-5,1.0E-5,1.0E-5
-2160,"San Jacinto (Borrego), Subsection 1",1.0E-5,0.0,1.0E-5,1.0E-5,1.0E-5,1.0E-5,1.0E-5
-2161,"San Jacinto (Borrego), Subsection 2",1.0E-5,0.0,1.0E-5,1.0E-5,1.0E-5,1.0E-5,1.0E-5
-2162,"San Jacinto (Borrego), Subsection 3",2.0E-5,0.0,1.0E-5,1.0E-5,1.0E-5,2.0E-5,2.0E-5
-2163,"San Jacinto (Borrego), Subsection 4",4.0E-5,0.0,1.0E-5,1.0E-5,1.0E-5,4.0E-5,3.0E-5
-2164,"San Jacinto (Borrego), Subsection 5",4.0E-5,0.0,1.0E-5,1.0E-5,1.0E-5,4.0E-5,3.0E-5
+2159,"San Jacinto (Borrego), Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2160,"San Jacinto (Borrego), Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2161,"San Jacinto (Borrego), Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2162,"San Jacinto (Borrego), Subsection 3",1.0E-5,0.0,0.0,0.0,0.0,1.0E-5,1.0E-5
+2163,"San Jacinto (Borrego), Subsection 4",3.0E-5,0.0,0.0,0.0,0.0,3.0E-5,2.0E-5
+2164,"San Jacinto (Borrego), Subsection 5",3.0E-5,0.0,0.0,0.0,0.0,3.0E-5,2.0E-5
 2165,"San Jacinto (Clark) rev, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2166,"San Jacinto (Clark) rev, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2167,"San Jacinto (Clark) rev, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -2191,11 +2191,11 @@ Subsection Index,Subsection Name,Triggered 10 Year Mean Count,Triggered 1 Day Pr
 2189,"San Jacinto (Stepovers Combined), Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2190,"San Jacinto (Stepovers Combined), Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2191,"San Jacinto (Stepovers Combined), Subsection 3",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2192,"San Jacinto (Superstition Mtn), Subsection 0",8.0E-5,0.0,1.0E-5,1.0E-5,3.0E-5,8.0E-5,6.0E-5
-2193,"San Jacinto (Superstition Mtn), Subsection 1",8.0E-5,0.0,1.0E-5,1.0E-5,3.0E-5,8.0E-5,6.0E-5
-2194,"San Jacinto (Superstition Mtn), Subsection 2",8.0E-5,0.0,1.0E-5,1.0E-5,3.0E-5,8.0E-5,6.0E-5
-2195,"San Jacinto (Superstition Mtn), Subsection 3",8.0E-5,0.0,1.0E-5,1.0E-5,3.0E-5,8.0E-5,6.0E-5
-2196,"San Jacinto (Superstition Mtn), Subsection 4",8.0E-5,0.0,1.0E-5,1.0E-5,3.0E-5,8.0E-5,6.0E-5
+2192,"San Jacinto (Superstition Mtn), Subsection 0",7.0E-5,0.0,0.0,0.0,2.0E-5,7.0E-5,5.0E-5
+2193,"San Jacinto (Superstition Mtn), Subsection 1",7.0E-5,0.0,0.0,0.0,2.0E-5,7.0E-5,5.0E-5
+2194,"San Jacinto (Superstition Mtn), Subsection 2",7.0E-5,0.0,0.0,0.0,2.0E-5,7.0E-5,5.0E-5
+2195,"San Jacinto (Superstition Mtn), Subsection 3",7.0E-5,0.0,0.0,0.0,2.0E-5,7.0E-5,5.0E-5
+2196,"San Jacinto (Superstition Mtn), Subsection 4",7.0E-5,0.0,0.0,0.0,2.0E-5,7.0E-5,5.0E-5
 2197,"San Joaquin Hills, Subsection 0",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2198,"San Joaquin Hills, Subsection 1",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2199,"San Joaquin Hills, Subsection 2",0.0,0.0,0.0,0.0,0.0,0.0,0.0

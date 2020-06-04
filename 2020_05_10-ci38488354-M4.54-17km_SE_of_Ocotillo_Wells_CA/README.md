@@ -49,16 +49,16 @@ Information and plots in the section are taken from the [USGS event page](https:
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence, using data sourced from [ComCat](https://earthquake.usgs.gov/data/comcat/). They were last updated at 2020/05/28 21:35:44 UTC, 17.98 days after the mainshock.
+These plots show the aftershock sequence, using data sourced from [ComCat](https://earthquake.usgs.gov/data/comcat/). They were last updated at 2020/06/03 20:18:57 UTC, 23.92 days after the mainshock.
 
-146 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.
+151 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.
 
 
 |  | First Hour | First Day | First Week | To Date |
 |-----|-----|-----|-----|-----|
-| **M 0** | 23 | 96 | 125 | 146 |
-| **M 1** | 21 | 87 | 112 | 131 |
-| **M 2** | 2 | 10 | 12 | 12 |
+| **M 0** | 23 | 96 | 125 | 151 |
+| **M 1** | 21 | 87 | 112 | 136 |
+| **M 2** | 2 | 10 | 12 | 13 |
 | **M 3** | 0 | 0 | 1 | 1 |
 ### Magnitude Vs. Time Plot
 *[(top)](#table-of-contents)*
@@ -99,7 +99,7 @@ These plot shows the magnitude-number distribution of the aftershock sequence th
 
 This section gives results from the UCERF3-ETAS short-term forecasting model. This model is described in [Field et al. (2017)](http://bssa.geoscienceworld.org/lookup/doi/10.1785/0120160173), and computes probabilities of this sequence triggering subsequent aftershocks, including events on known faults.
 
-Probabilities are inherantly time-dependent. Those stated here are for time periods beginning the instant when this report was generated, 2020/05/28 14:35:44 PDT. The model was updated with all observed aftershcoks up to 12 days after the mainshock, and may be out of date, especially if large aftershocks have occurred subsequently or a significant amount of time has passed since the last update.
+Probabilities are inherantly time-dependent. Those stated here are for time periods beginning the instant when this report was generated, 2020/06/03 13:18:57 PDT. The model was updated with all observed aftershcoks up to 12 days after the mainshock, and may be out of date, especially if large aftershocks have occurred subsequently or a significant amount of time has passed since the last update.
 
 Results are summarized below and should be considered preliminary. The exact timing, size, location, or number of aftershocks cannot be predicted, and all probabilities are uncertain.
 
@@ -108,10 +108,10 @@ This table gives forecasted one week and one month probabilities for events trig
 
 |  | 1 Week | 1 Month |
 |-----|-----|-----|
-| **M&ge;3** | 4.645% | 12.818% |
-| **M&ge;4** | 0.525% | 1.481% |
-| **M&ge;5** | 0.057% | 0.157% |
-| **M&ge;6** | 0.001% | 0.004% |
+| **M&ge;3** | 3.733% | 10.804% |
+| **M&ge;4** | 0.403% | 1.227% |
+| **M&ge;5** | 0.043% | 0.124% |
+| **M&ge;6** | <0.001% | 0.003% |
 
 ### ETAS Forecasted Magnitude Vs. Time
 *[(top)](#table-of-contents)*
@@ -139,9 +139,9 @@ The table below summarizes the probabilities of this sequence triggering large s
 
 | Fault Section | 1 wk supra-seis prob | 1 mo supra-seis prob | 1 wk M&ge;7 prob | 1 mo M&ge;7 prob |
 |-----|-----|-----|-----|-----|
-| **San Jacinto (Superstition Mtn)** | 0.001% | 0.002% | <0.001% | <0.001% |
+| **San Jacinto (Superstition Mtn)** | <0.001% | 0.001% | <0.001% | <0.001% |
 | **Superstition Hills** | <0.001% | <0.001% | <0.001% | <0.001% |
-| **San Jacinto (Borrego)** | 0.001% | 0.001% | <0.001% | <0.001% |
+| **San Jacinto (Borrego)** | <0.001% | <0.001% | <0.001% | <0.001% |
 | **Elsinore (Coyote Mountains)** | <0.001% | <0.001% | <0.001% | <0.001% |
 | **Elmore Ranch** | <0.001% | <0.001% | <0.001% | <0.001% |
 | **Imperial** | <0.001% | 0.001% | <0.001% | 0.001% |
