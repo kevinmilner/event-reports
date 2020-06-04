@@ -3,7 +3,7 @@
 
 This section gives results from the UCERF3-ETAS short-term forecasting model. This model is described in [Field et al. (2017)](http://bssa.geoscienceworld.org/lookup/doi/10.1785/0120160173), and computes probabilities of this sequence triggering subsequent aftershocks, including events on known faults.
 
-Probabilities are inherantly time-dependent. Those stated here are for time periods beginning the instant when this report was generated, 2020/06/03 21:08:19 PDT. The model has not been updated with any observed aftershocks and may be out of date, especially if large aftershock have occurred subsequently or a significant amount of time has passed since the mainshock.
+Probabilities are inherantly time-dependent. Those stated here are for time periods beginning the instant when this report was generated, 2020/06/03 23:43:30 PDT. The model has not been updated with any observed aftershocks and may be out of date, especially if large aftershock have occurred subsequently or a significant amount of time has passed since the mainshock.
 
 Results are summarized below and should be considered preliminary. The exact timing, size, location, or number of aftershocks cannot be predicted, and all probabilities are uncertain.
 
@@ -12,11 +12,11 @@ This table gives forecasted one week and one month probabilities for events trig
 
 |  | 1 Week | 1 Month |
 |-----|-----|-----|
-| **M&ge;3** | 100.000% | 100.000% |
-| **M&ge;4** | 60.167% | 80.861% |
-| **M&ge;5** | 8.792% | 16.268% |
-| **M&ge;6** | 1.256% | 1.914% |
-| **M&ge;7** | 0.239% | 0.299% |
+| **M&ge;3** | 99.952% | 100.000% |
+| **M&ge;4** | 54.857% | 79.048% |
+| **M&ge;5** | 7.667% | 14.905% |
+| **M&ge;6** | 1.000% | 1.571% |
+| **M&ge;7** | 0.238% | 0.286% |
 | **M&ge;8** | <0.001% | <0.001% |
 
 ### ETAS Forecasted Magnitude Vs. Time
@@ -45,13 +45,13 @@ The table below summarizes the probabilities of this sequence triggering large s
 
 | Fault Section | 1 wk supra-seis prob | 1 mo supra-seis prob | 1 wk M&ge;7 prob | 1 mo M&ge;7 prob |
 |-----|-----|-----|-----|-----|
-| **Garlock (Central)** | 0.239% | 0.478% | 0.179% | 0.239% |
-| **Tank Canyon** | 0.060% | 0.179% | <0.001% | <0.001% |
-| **Little Lake** | <0.001% | 0.060% | <0.001% | <0.001% |
-| **Owl Lake** | 0.060% | 0.060% | <0.001% | <0.001% |
+| **Garlock (Central)** | 0.333% | 0.524% | 0.190% | 0.238% |
+| **Tank Canyon** | 0.048% | 0.143% | <0.001% | <0.001% |
+| **Little Lake** | <0.001% | 0.048% | <0.001% | <0.001% |
+| **Owl Lake** | 0.048% | 0.048% | <0.001% | <0.001% |
 | **Airport Lake** | <0.001% | <0.001% | <0.001% | <0.001% |
-| **Panamint Valley** | 0.120% | 0.179% | 0.120% | 0.179% |
-| **Garlock (East)** | 0.060% | 0.060% | 0.060% | 0.060% |
-| **Hunter Mountain-Saline Valley** | 0.060% | 0.120% | 0.060% | 0.120% |
-| **McLean Lake** | 0.060% | 0.120% | <0.001% | <0.001% |
+| **Panamint Valley** | 0.143% | 0.190% | 0.143% | 0.190% |
+| **Hunter Mountain-Saline Valley** | 0.095% | 0.143% | 0.095% | 0.143% |
+| **Garlock (East)** | 0.048% | 0.048% | 0.048% | 0.048% |
+| **McLean Lake** | 0.048% | 0.095% | <0.001% | <0.001% |
 | **Ash Hill** | <0.001% | <0.001% | <0.001% | <0.001% |
