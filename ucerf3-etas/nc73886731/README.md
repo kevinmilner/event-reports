@@ -3,7 +3,7 @@
 
 This section gives results from the UCERF3-ETAS short-term forecasting model. This model is described in [Field et al. (2017)](http://bssa.geoscienceworld.org/lookup/doi/10.1785/0120160173), and computes probabilities of this sequence triggering subsequent aftershocks, including events on known faults.
 
-Probabilities are inherantly time-dependent. Those stated here are for time periods beginning the instant when this report was generated, 2023/05/13 09:51:06 PDT. The model was updated with all observed aftershcoks up to 23.1 hours after the mainshock, and may be out of date, especially if large aftershocks have occurred subsequently or a significant amount of time has passed since the last update.
+Probabilities are inherantly time-dependent. Those stated here are for time periods beginning the instant when this report was generated, 2023/05/15 09:13:37 PDT. The model was updated with all observed aftershcoks up to 23.1 hours after the mainshock, and may be out of date, especially if large aftershocks have occurred subsequently or a significant amount of time has passed since the last update.
 
 Results are summarized below and should be considered preliminary. The exact timing, size, location, or number of aftershocks cannot be predicted, and all probabilities are uncertain.
 
@@ -12,10 +12,10 @@ This table gives forecasted one week and one month probabilities for events trig
 
 |  | 1 Week | 1 Month |
 |-----|-----|-----|
-| **M&ge;3** | 96.539% | 99.651% |
-| **M&ge;4** | 31.147% | 46.781% |
-| **M&ge;5** | 4.316% | 7.400% |
-| **M&ge;6** | 0.790% | 1.398% |
+| **M&ge;3** | 88.437% | 98.554% |
+| **M&ge;4** | 21.574% | 37.972% |
+| **M&ge;5** | 2.884% | 5.754% |
+| **M&ge;6** | 0.535% | 1.089% |
 | **M&ge;7** | <0.001% | 0.001% |
 
 ### ETAS Forecasted Magnitude Vs. Time
@@ -44,12 +44,12 @@ The table below summarizes the probabilities of this sequence triggering large s
 
 | Fault Section | 1 wk supra-seis prob | 1 mo supra-seis prob | 1 wk M&ge;7 prob | 1 mo M&ge;7 prob |
 |-----|-----|-----|-----|-----|
-| **Almanor 2011 CFM** | 0.596% | 1.059% | <0.001% | <0.001% |
-| **Keddie Ridge 2011 CFM** | 0.253% | 0.441% | <0.001% | <0.001% |
-| **Walker Spring 2011 CFM** | 0.041% | 0.073% | <0.001% | <0.001% |
-| **Skinner Flat 2011 CFM** | 0.008% | 0.016% | <0.001% | <0.001% |
-| **Hat Creek-McArthur-Mayfield** | 0.001% | 0.004% | <0.001% | <0.001% |
-| **Honey Lake 2011 CFM** | 0.001% | 0.004% | <0.001% | <0.001% |
+| **Almanor 2011 CFM** | 0.393% | 0.810% | <0.001% | <0.001% |
+| **Keddie Ridge 2011 CFM** | 0.170% | 0.347% | <0.001% | <0.001% |
+| **Walker Spring 2011 CFM** | 0.030% | 0.056% | <0.001% | <0.001% |
+| **Skinner Flat 2011 CFM** | 0.007% | 0.014% | <0.001% | <0.001% |
+| **Hat Creek-McArthur-Mayfield** | 0.002% | 0.004% | <0.001% | <0.001% |
+| **Honey Lake 2011 CFM** | 0.001% | 0.003% | <0.001% | <0.001% |
 | **Surprise Valley 2011 CFM** | <0.001% | 0.001% | <0.001% | <0.001% |
 | **Cedar Mtn-Mahogany Mtn** | <0.001% | <0.001% | <0.001% | <0.001% |
 | **Hunting Creek - Berryessa 2011 CFM** | <0.001% | <0.001% | <0.001% | <0.001% |

@@ -1,6 +1,6 @@
 Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggered 1 Week Prob,Triggered 1 Month Prob,Triggered 1 Year Prob,Triggered 10 Year Prob,Triggered 10 Year Primary Mean Count
 861,Airport Lake,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-667,Almanor 2011 CFM,0.02905,0.00185,0.00596,0.01059,0.01958,0.02832,0.01544
+667,Almanor 2011 CFM,0.02629,8.7E-4,0.00393,0.0081,0.01689,0.02564,0.01348
 219,Anacapa-Dume alt 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 197,Anaheim,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 722,Antelope Valley 2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -110,7 +110,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 636,Greenville (No) 2011 CFM,1.0E-5,0.0,0.0,0.0,0.0,1.0E-5,0.0
 635,Greenville (So) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 702,Hartley Springs 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-37,Hat Creek-McArthur-Mayfield,1.4E-4,0.0,1.0E-5,4.0E-5,8.0E-5,1.4E-4,3.0E-5
+37,Hat Creek-McArthur-Mayfield,1.4E-4,0.0,2.0E-5,4.0E-5,8.0E-5,1.4E-4,3.0E-5
 639,Hayward (No) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 638,Hayward (So) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 637,Hayward (So) extension 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -120,7 +120,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 108,Hollywood,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 228,Holser alt 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 723,Homestead Valley 2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-704,Honey Lake 2011 CFM,1.4E-4,1.0E-5,1.0E-5,4.0E-5,6.0E-5,1.3E-4,2.0E-5
+704,Honey Lake 2011 CFM,1.3E-4,0.0,1.0E-5,3.0E-5,5.0E-5,1.2E-4,2.0E-5
 30,Hosgri,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 208,Hosgri (Extension),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 50,Hunter Mountain-Saline Valley,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -132,7 +132,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 892,Jess Valley,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 91,Johnson Valley (No) 2011 rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 168,Joshua Tree (Seismicity),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-679,Keddie Ridge 2011 CFM,0.01203,6.9E-4,0.00253,0.00441,0.0082,0.01178,0.00668
+679,Keddie Ridge 2011 CFM,0.01094,4.5E-4,0.0017,0.00347,0.00715,0.01073,0.00585
 542,Kern Canyon (Lake Isabella) 2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 544,Kern Canyon (North Kern) 2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 543,Kern Canyon (South Kern) 2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -286,7 +286,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 664,Silver Creek 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 115,Simi-Santa Rosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 202,Sisar,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-694,Skinner Flat 2011 CFM,4.9E-4,0.0,8.0E-5,1.6E-4,3.1E-4,4.9E-4,1.7E-4
+694,Skinner Flat 2011 CFM,4.7E-4,5.0E-5,7.0E-5,1.4E-4,2.9E-4,4.7E-4,1.5E-4
 63,So Sierra Nevada,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 189,South Cuyama,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 719,South Klamath Lake East,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -302,7 +302,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 19,Trinidad (alt1),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 117,Ventura-Pitas Point,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 112,Verdugo,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-696,Walker Spring 2011 CFM,0.00228,9.0E-5,4.1E-4,7.3E-4,0.00158,0.00222,5.2E-4
+696,Walker Spring 2011 CFM,0.0021,3.0E-5,3.0E-4,5.6E-4,0.0014,0.00204,4.5E-4
 665,West Napa 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 321,West Tahoe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 44,White Mountains,0.0,0.0,0.0,0.0,0.0,0.0,0.0
