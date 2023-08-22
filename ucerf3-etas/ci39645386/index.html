@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>UCERF3-ETAS Forecast</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="markdown.css">
+<style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 1000px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+</head>
+<article class="markdown-body">
+<h2 id="ucerf3-etas-forecast">UCERF3-ETAS Forecast</h2>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>This section gives results from the UCERF3-ETAS short-term forecasting model. This model is described in <a href="http://bssa.geoscienceworld.org/lookup/doi/10.1785/0120160173">Field et al. (2017)</a>, and computes probabilities of this sequence triggering subsequent aftershocks, including events on known faults.</p>
+<p>Probabilities are inherantly time-dependent. Those stated here are for time periods beginning the instant when this report was generated, 2023/08/22 12:17:14 PDT. The model was updated with all observed aftershcoks up to 1.8 days after the mainshock, and may be out of date, especially if large aftershocks have occurred subsequently or a significant amount of time has passed since the last update.</p>
+<p>Results are summarized below and should be considered preliminary. The exact timing, size, location, or number of aftershocks cannot be predicted, and all probabilities are uncertain.</p>
+<p>This table gives forecasted one week and one month probabilities for events triggered by this sequence; it does not include the long-term probability of such events.</p>
+<table>
+<thead>
+<tr><th></th><th>1 Week</th><th>1 Month</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>M&ge;3</strong></td><td>68.619%</td><td>86.344%</td></tr>
+<tr><td><strong>M&ge;4</strong></td><td>11.866%</td><td>19.743%</td></tr>
+<tr><td><strong>M&ge;5</strong></td><td>1.336%</td><td>2.342%</td></tr>
+<tr><td><strong>M&ge;6</strong></td><td>0.094%</td><td>0.185%</td></tr>
+<tr><td><strong>M&ge;7</strong></td><td>0.012%</td><td>0.024%</td></tr>
+<tr><td><strong>M&ge;8</strong></td><td>&lt;0.001%</td><td>&lt;0.001%</td></tr>
+</tbody>
+</table>
+<h3 id="etas-forecasted-magnitude-vs-time">ETAS Forecasted Magnitude Vs. Time</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>These plots show the show the magnitude versus time probability function since simulation start. Observed event data lie on top, with those input to the simulation plotted as magenta circles and those that occurred after the simulation start time as cyan circles. Time is relative to the mainshock (M5.08, ci39645386, plotted as a brown circle). Probabilities are only shown above the minimum simulated magnitude, M=2.5.</p>
+<table>
+<thead>
+<tr><th>One Week</th><th>One Month</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="resources/mag_time_week.png" target="_blank"><img src="resources/mag_time_week.png" alt="Mag-time plot" /></a></td><td><a href="resources/mag_time_month.png" target="_blank"><img src="resources/mag_time_month.png" alt="Mag-time plot" /></a></td></tr>
+</tbody>
+</table>
+<h3 id="etas-spatial-distribution-forecast">ETAS Spatial Distribution Forecast</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>These plots show the predicted spatial distribution of aftershocks above the given magnitude threshold and for the given time period. The 'Current' plot shows the forecasted spatial distribution to date, along with as any observed aftershocks overlaid with cyan circles. Observed aftershocks will be included in the week/month plots as well if the forecasted time window has elapsed.</p>
+<table>
+<thead>
+<tr><th></th><th>Forecast: 1 Week</th><th>Forecast: 1 Month</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>M&ge;3</strong></td><td><a href="resources/comcat_compare_prob_1wk_m3.png" target="_blank"><img src="resources/comcat_compare_prob_1wk_m3.png" alt="Map" /></a></td><td><a href="resources/comcat_compare_prob_1mo_m3.png" target="_blank"><img src="resources/comcat_compare_prob_1mo_m3.png" alt="Map" /></a></td></tr>
+<tr><td><strong>M&ge;5</strong></td><td><a href="resources/comcat_compare_prob_1wk_m5.png" target="_blank"><img src="resources/comcat_compare_prob_1wk_m5.png" alt="Map" /></a></td><td><a href="resources/comcat_compare_prob_1mo_m5.png" target="_blank"><img src="resources/comcat_compare_prob_1mo_m5.png" alt="Map" /></a></td></tr>
+</tbody>
+</table>
+<h3 id="etas-fault-trigger-probabilities">ETAS Fault Trigger Probabilities</h3>
+<p><em><a href="#table-of-contents">(top)</a></em></p>
+<p>The table below summarizes the probabilities of this sequence triggering large supra-seismogenic aftershocks on nearby known active faults.</p>
+<table>
+<thead>
+<tr><th>Fault Section</th><th>1 wk supra-seis prob</th><th>1 mo supra-seis prob</th><th>1 wk M&ge;7 prob</th><th>1 mo M&ge;7 prob</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>Mission Ridge-Arroyo Parida-Santa Ana</strong></td><td>0.025%</td><td>0.045%</td><td>0.008%</td><td>0.013%</td></tr>
+<tr><td><strong>Ventura-Pitas Point</strong></td><td>0.009%</td><td>0.026%</td><td>0.001%</td><td>0.006%</td></tr>
+<tr><td><strong>Santa Ynez (East)</strong></td><td>0.008%</td><td>0.017%</td><td>0.002%</td><td>0.006%</td></tr>
+<tr><td><strong>San Cayetano</strong></td><td>0.011%</td><td>0.017%</td><td>0.007%</td><td>0.012%</td></tr>
+<tr><td><strong>Red Mountain</strong></td><td>0.006%</td><td>0.012%</td><td>0.005%</td><td>0.007%</td></tr>
+<tr><td><strong>Santa Ynez (West)</strong></td><td>0.003%</td><td>0.007%</td><td>0.002%</td><td>0.004%</td></tr>
+<tr><td><strong>Oak Ridge (Onshore)</strong></td><td>0.002%</td><td>0.007%</td><td>0.002%</td><td>0.007%</td></tr>
+<tr><td><strong>Sisar</strong></td><td>0.002%</td><td>0.009%</td><td>0.002%</td><td>0.009%</td></tr>
+<tr><td><strong>Pitas Point (Lower West)</strong></td><td>0.003%</td><td>0.005%</td><td>0.003%</td><td>0.005%</td></tr>
+<tr><td><strong>Santa Ynez River</strong></td><td>&lt;0.001%</td><td>0.001%</td><td>&lt;0.001%</td><td>0.001%</td></tr>
+</tbody>
+</table>
+</article>
+</html>
