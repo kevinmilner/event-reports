@@ -49,6 +49,7 @@ Information and plots in the section are taken from the [USGS event page](https:
 
 ### Ground Motion Animation
 *[(top)](#table-of-contents)*
+
 Animation of simulated ground motions from the 2025-04-14
 Julian earthquake, depicting up (red) and down (blue) seismic wave
 velocities, integrating a 3D community subsurface velocity model for
@@ -57,9 +58,8 @@ by the Statewide California Earthquake Center, and high-resolution
 topography. This simulation uses the open-source software SeisSol and requires
 14 minutes of run-time on 768 cores. Provided by John Rekoske & Alice Gabriel,
 Scripps Institution of Oceanography, UCSD.
-<video width="80%" height="auto" controls>
-<source src="resources/julian_movie-v3.mp4" type="video/mp4" />
-</video>
+
+https://github.com/user-attachments/assets/b6e90b16-bc6a-4ff6-91f5-2783239a1785
 
 ## Sequence Details
 *[(top)](#table-of-contents)*
