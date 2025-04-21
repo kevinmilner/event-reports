@@ -5,6 +5,7 @@
 * [Mainshock Details](#mainshock-details)
   * [USGS Products](#usgs-products)
   * [Nearby Faults](#nearby-faults)
+  * [Ground Motion Animation](#ground-motion-animation)
 * [Sequence Details](#sequence-details)
   * [Magnitude Vs. Time Plot](#magnitude-vs-time-plot)
   * [Aftershock Locations](#aftershock-locations)
@@ -45,6 +46,21 @@ Information and plots in the section are taken from the [USGS event page](https:
 1 UCERF3 fault section is within 10km of this event's hypocenter:
 
 * Elsinore (Julian): 7.07km
+
+### Ground Motion Animation
+*[(top)](#table-of-contents)*
+Animation of simulated ground motions from the 2025-04-14
+Julian earthquake, depicting up (red) and down (blue) seismic wave
+velocities, integrating a 3D community subsurface velocity model for
+Southern California (SCEC CVM-H v15.1.0; Shaw et al., 2015), made available
+by the Statewide California Earthquake Center, and high-resolution
+topography. This simulation uses the open-source software SeisSol and requires
+14 minutes of run-time on 768 cores. Provided by John Rekoske & Alice Gabriel,
+Scripps Institution of Oceanography, UCSD.
+<video width="80%" height="auto" controls>
+<source src="resources/julian_movie-v3.mp4" type="video/mp4" />
+</video>
+
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
