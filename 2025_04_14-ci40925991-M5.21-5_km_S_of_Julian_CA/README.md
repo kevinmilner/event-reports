@@ -48,7 +48,7 @@ Information and plots in the section are taken from the [USGS event page](https:
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence, using data sourced from [ComCat](https://earthquake.usgs.gov/data/comcat/). They were last updated at 2025/05/24 00:56:59 UTC, 39.33 days after the mainshock.
+These plots show the aftershock sequence, using data sourced from [ComCat](https://earthquake.usgs.gov/data/comcat/). They were last updated at 2025/05/24 01:09:33 UTC, 39.33 days after the mainshock.
 
 369 M&ge;0 earthquakes within 20 km of the mainshock's epicenter.
 
@@ -98,7 +98,7 @@ These plot shows the magnitude-number distribution of the aftershock sequence th
 
 This section gives results from the UCERF3-ETAS short-term forecasting model. This model is described in [Field et al. (2017)](http://bssa.geoscienceworld.org/lookup/doi/10.1785/0120160173), and computes probabilities of this sequence triggering subsequent aftershocks, including events on known faults.
 
-Probabilities are inherantly time-dependent. Those stated here are for time periods beginning the instant when this report was generated, 2025/05/23 17:56:59 PDT. The model has not been updated with any observed aftershocks and may be out of date, especially if large aftershock have occurred subsequently or a significant amount of time has passed since the mainshock.
+Probabilities are inherantly time-dependent. Those stated here are for time periods beginning the instant when this report was generated, 2025/05/23 18:09:33 PDT. The model has not been updated with any observed aftershocks and may be out of date, especially if large aftershock have occurred subsequently or a significant amount of time has passed since the mainshock.
 
 Results are summarized below and should be considered preliminary. The exact timing, size, location, or number of aftershocks cannot be predicted, and all probabilities are uncertain.
 
@@ -107,8 +107,8 @@ This table gives forecasted one week and one month probabilities for events trig
 
 |  | 1 Week | 1 Month |
 |-----|-----|-----|
-| **M&ge;3** | 12.164% | 29.266% |
-| **M&ge;4** | 1.698% | 5.116% |
+| **M&ge;3** | 12.160% | 29.265% |
+| **M&ge;4** | 1.696% | 5.115% |
 | **M&ge;5** | 0.215% | 0.653% |
 | **M&ge;6** | 0.014% | 0.048% |
 | **M&ge;7** | 0.001% | 0.006% |
