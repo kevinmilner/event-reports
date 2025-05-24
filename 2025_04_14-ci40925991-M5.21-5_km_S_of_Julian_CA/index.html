@@ -28,7 +28,6 @@
 <ul>
 <li><a href="#usgs-products">USGS Products</a></li>
 <li><a href="#nearby-faults">Nearby Faults</a></li>
-<li><a href="#ground-motions-animation">Ground Motions Animation</a></li>
 </ul>
 </li>
 <li><a href="#sequence-details">Sequence Details</a>
@@ -57,7 +56,7 @@
 <tbody>
 <tr><td>Magnitude</td><td>5.21 (mw)</td></tr>
 <tr><td>Time (UTC)</td><td>Mon, 14 Apr 2025 17:08:28 UTC</td></tr>
-<tr><td>Time (CDT)</td><td>Mon, 14 Apr 2025 12:08:28 CDT</td></tr>
+<tr><td>Time (PDT)</td><td>Mon, 14 Apr 2025 10:08:28 PDT</td></tr>
 <tr><td>Location</td><td>33.03583, -116.59483</td></tr>
 <tr><td>Depth</td><td>14.29 km</td></tr>
 <tr><td>Status</td><td>reviewed</td></tr>
@@ -81,44 +80,43 @@
 <ul>
 <li>Elsinore (Julian): 7.07km</li>
 </ul>
-
-<h3 id="ground-motions-animation">Ground Motions Animation</h3>
-<p><em><a href="#table-of-contents">(top)</a></em></p>
-Animation of simulated ground motions from the 2025-04-14
-Julian earthquake, depicting up (red) and down (blue) seismic wave
-velocities, integrating a 3D community subsurface velocity model for
-Southern California (SCEC CVM-H v15.1.0; Shaw et al., 2015), made available
-by the Statewide California Earthquake Center, and high-resolution
-topography. This simulation uses the open-source software SeisSol and requires
-14 minutes of run-time on 768 cores. Provided by John Rekoske & Alice Gabriel,
-Scripps Institution of Oceanography, UCSD.
-<video width="80%" height="auto" controls>
-<source src="resources/julian_movie-v3.mp4" type="video/mp4" />
-</video>
-
 <h2 id="sequence-details">Sequence Details</h2>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
-<p>These plots show the aftershock sequence, using data sourced from <a href="https://earthquake.usgs.gov/data/comcat/">ComCat</a>. They were last updated at 2025/04/14 22:49:12 UTC, 5.68 hours after the mainshock.</p>
-<p>128 M&ge;0 earthquakes within 50 km of the mainshock's epicenter.</p>
+<p>These plots show the aftershock sequence, using data sourced from <a href="https://earthquake.usgs.gov/data/comcat/">ComCat</a>. They were last updated at 2025/05/24 00:43:49 UTC, 39.32 days after the mainshock.</p>
+<p>340 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.</p>
 <table>
 <thead>
-<tr><th></th><th>First Hour</th><th>To Date</th></tr>
+<tr><th></th><th>First Hour</th><th>First Day</th><th>First Week</th><th>First Month</th><th>To Date</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>M 0</strong></td><td>60</td><td>128</td></tr>
-<tr><td><strong>M 1</strong></td><td>42</td><td>77</td></tr>
-<tr><td><strong>M 2</strong></td><td>11</td><td>17</td></tr>
-<tr><td><strong>M 3</strong></td><td>1</td><td>2</td></tr>
+<tr><td><strong>M 0</strong></td><td>75</td><td>225</td><td>302</td><td>336</td><td>340</td></tr>
+<tr><td><strong>M 1</strong></td><td>51</td><td>107</td><td>129</td><td>135</td><td>137</td></tr>
+<tr><td><strong>M 2</strong></td><td>14</td><td>20</td><td>25</td><td>26</td><td>26</td></tr>
+<tr><td><strong>M 3</strong></td><td>0</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
 </tbody>
 </table>
 <h3 id="magnitude-vs-time-plot">Magnitude Vs. Time Plot</h3>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
 <p>This plot shows the magnitude vs. time evolution of the sequence. The mainshock is ploted as a brown circle, foreshocks are plotted as magenta circles, and aftershocks are plotted as cyan circles.</p>
-<p><a href="resources/aftershocks_mag_vs_time.png" target="_blank"><img src="resources/aftershocks_mag_vs_time.png" alt="Mag vs Time Plot" /></a></p>
+<table>
+<thead>
+<tr><th>First Week</th><th>First Month</th><th>To Date</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="resources/aftershocks_mag_vs_time_week.png" target="_blank"><img src="resources/aftershocks_mag_vs_time_week.png" alt="Mag vs Time Plot" /></a></td><td><a href="resources/aftershocks_mag_vs_time_month.png" target="_blank"><img src="resources/aftershocks_mag_vs_time_month.png" alt="Mag vs Time Plot" /></a></td><td><a href="resources/aftershocks_mag_vs_time.png" target="_blank"><img src="resources/aftershocks_mag_vs_time.png" alt="Mag vs Time Plot" /></a></td></tr>
+</tbody>
+</table>
 <h3 id="aftershock-locations">Aftershock Locations</h3>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
 <p>Map view of the aftershock sequence, plotted as cyan circles. The mainshock  and foreshocks are plotted below in brown and magenta circles respectively, but may be obscured by aftershocks. Nearby UCERF3 fault traces are plotted in gray lines, and the region used to fetch aftershock data in a dashed dark gray line.</p>
-<p><a href="resources/map_to_date.png" target="_blank"><img src="resources/map_to_date.png" alt="First Day" /></a></p>
+<table>
+<thead>
+<tr><th>First Day</th><th>First Week</th><th>To Date</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="resources/map_first_day.png" target="_blank"><img src="resources/map_first_day.png" alt="First Day" /></a></td><td><a href="resources/map_first_week.png" target="_blank"><img src="resources/map_first_week.png" alt="First Day" /></a></td><td><a href="resources/map_to_date.png" target="_blank"><img src="resources/map_to_date.png" alt="First Day" /></a></td></tr>
+</tbody>
+</table>
 <h3 id="cumulative-number-plot">Cumulative Number Plot</h3>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
 <p>This plot shows the cumulative number of M&ge;0 aftershocks as a function of time since the mainshock.</p>
@@ -137,7 +135,7 @@ Scripps Institution of Oceanography, UCSD.
 <h2 id="ucerf3-etas-forecast">UCERF3-ETAS Forecast</h2>
 <p><em><a href="#table-of-contents">(top)</a></em></p>
 <p>This section gives results from the UCERF3-ETAS short-term forecasting model. This model is described in <a href="http://bssa.geoscienceworld.org/lookup/doi/10.1785/0120160173">Field et al. (2017)</a>, and computes probabilities of this sequence triggering subsequent aftershocks, including events on known faults.</p>
-<p>Probabilities are inherantly time-dependent. Those stated here are for time periods beginning the instant when this report was generated, 2025/04/14 17:49:12 CDT. The model has not been updated with any observed aftershocks and may be out of date, especially if large aftershock have occurred subsequently or a significant amount of time has passed since the mainshock.</p>
+<p>Probabilities are inherantly time-dependent. Those stated here are for time periods beginning the instant when this report was generated, 2025/05/23 17:43:49 PDT. The model has not been updated with any observed aftershocks and may be out of date, especially if large aftershock have occurred subsequently or a significant amount of time has passed since the mainshock.</p>
 <p>Results are summarized below and should be considered preliminary. The exact timing, size, location, or number of aftershocks cannot be predicted, and all probabilities are uncertain.</p>
 <p>This table gives forecasted one week and one month probabilities for events triggered by this sequence; it does not include the long-term probability of such events.</p>
 <table>
@@ -145,12 +143,11 @@ Scripps Institution of Oceanography, UCSD.
 <tr><th></th><th>1 Week</th><th>1 Month</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>M&ge;3</strong></td><td>93.629%</td><td>97.642%</td></tr>
-<tr><td><strong>M&ge;4</strong></td><td>27.140%</td><td>35.086%</td></tr>
-<tr><td><strong>M&ge;5</strong></td><td>3.425%</td><td>4.650%</td></tr>
-<tr><td><strong>M&ge;6</strong></td><td>0.275%</td><td>0.404%</td></tr>
-<tr><td><strong>M&ge;7</strong></td><td>0.033%</td><td>0.049%</td></tr>
-<tr><td><strong>M&ge;8</strong></td><td>&lt;0.001%</td><td>&lt;0.001%</td></tr>
+<tr><td><strong>M&ge;3</strong></td><td>12.166%</td><td>29.269%</td></tr>
+<tr><td><strong>M&ge;4</strong></td><td>1.695%</td><td>5.116%</td></tr>
+<tr><td><strong>M&ge;5</strong></td><td>0.214%</td><td>0.652%</td></tr>
+<tr><td><strong>M&ge;6</strong></td><td>0.014%</td><td>0.047%</td></tr>
+<tr><td><strong>M&ge;7</strong></td><td>0.001%</td><td>0.006%</td></tr>
 </tbody>
 </table>
 <h3 id="etas-forecasted-magnitude-vs-time">ETAS Forecasted Magnitude Vs. Time</h3>
@@ -184,16 +181,16 @@ Scripps Institution of Oceanography, UCSD.
 <tr><th>Fault Section</th><th>1 wk supra-seis prob</th><th>1 mo supra-seis prob</th><th>1 wk M&ge;7 prob</th><th>1 mo M&ge;7 prob</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>Earthquake Valley (So Extension)</strong></td><td>0.028%</td><td>0.045%</td><td>0.015%</td><td>0.022%</td></tr>
-<tr><td><strong>Earthquake Valley</strong></td><td>0.030%</td><td>0.042%</td><td>0.018%</td><td>0.027%</td></tr>
-<tr><td><strong>Earthquake Valley (No  Extension)</strong></td><td>0.023%</td><td>0.034%</td><td>0.018%</td><td>0.027%</td></tr>
-<tr><td><strong>Elsinore (Julian)</strong></td><td>0.013%</td><td>0.021%</td><td>0.012%</td><td>0.019%</td></tr>
-<tr><td><strong>Elsinore (Coyote Mountains)</strong></td><td>0.013%</td><td>0.019%</td><td>0.012%</td><td>0.018%</td></tr>
-<tr><td><strong>Elsinore (Temecula) rev</strong></td><td>0.009%</td><td>0.014%</td><td>0.009%</td><td>0.014%</td></tr>
-<tr><td><strong>Elsinore (Glen Ivy) rev</strong></td><td>0.008%</td><td>0.010%</td><td>0.007%</td><td>0.009%</td></tr>
-<tr><td><strong>Elsinore (Stepovers Combined)</strong></td><td>0.008%</td><td>0.010%</td><td>0.008%</td><td>0.010%</td></tr>
-<tr><td><strong>Whittier alt 1</strong></td><td>0.007%</td><td>0.009%</td><td>0.007%</td><td>0.009%</td></tr>
-<tr><td><strong>Chino alt 1</strong></td><td>0.001%</td><td>0.002%</td><td>0.001%</td><td>0.001%</td></tr>
+<tr><td><strong>Earthquake Valley</strong></td><td>0.001%</td><td>0.003%</td><td>&lt;0.001%</td><td>&lt;0.001%</td></tr>
+<tr><td><strong>Earthquake Valley (So Extension)</strong></td><td>0.001%</td><td>0.003%</td><td>&lt;0.001%</td><td>&lt;0.001%</td></tr>
+<tr><td><strong>Earthquake Valley (No  Extension)</strong></td><td>&lt;0.001%</td><td>&lt;0.001%</td><td>&lt;0.001%</td><td>&lt;0.001%</td></tr>
+<tr><td><strong>Elsinore (Julian)</strong></td><td>0.001%</td><td>0.006%</td><td>0.001%</td><td>0.005%</td></tr>
+<tr><td><strong>Elsinore (Coyote Mountains)</strong></td><td>0.001%</td><td>0.005%</td><td>0.001%</td><td>0.005%</td></tr>
+<tr><td><strong>Elsinore (Temecula) rev</strong></td><td>&lt;0.001%</td><td>0.004%</td><td>&lt;0.001%</td><td>0.004%</td></tr>
+<tr><td><strong>Elsinore (Glen Ivy) rev</strong></td><td>&lt;0.001%</td><td>0.003%</td><td>&lt;0.001%</td><td>0.003%</td></tr>
+<tr><td><strong>Elsinore (Stepovers Combined)</strong></td><td>&lt;0.001%</td><td>0.003%</td><td>&lt;0.001%</td><td>0.003%</td></tr>
+<tr><td><strong>Whittier alt 1</strong></td><td>&lt;0.001%</td><td>0.002%</td><td>&lt;0.001%</td><td>0.002%</td></tr>
+<tr><td><strong>Chino alt 1</strong></td><td>&lt;0.001%</td><td>0.002%</td><td>&lt;0.001%</td><td>0.001%</td></tr>
 </tbody>
 </table>
 </article>

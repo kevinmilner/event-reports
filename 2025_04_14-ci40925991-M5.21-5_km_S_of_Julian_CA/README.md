@@ -5,7 +5,6 @@
 * [Mainshock Details](#mainshock-details)
   * [USGS Products](#usgs-products)
   * [Nearby Faults](#nearby-faults)
-  * [Ground Motion Animation](#ground-motion-animation)
 * [Sequence Details](#sequence-details)
   * [Magnitude Vs. Time Plot](#magnitude-vs-time-plot)
   * [Aftershock Locations](#aftershock-locations)
@@ -25,7 +24,7 @@ Information and plots in the section are taken from the [USGS event page](https:
 |-----|-----|
 | Magnitude | 5.21 (mw) |
 | Time (UTC) | Mon, 14 Apr 2025 17:08:28 UTC |
-| Time (CDT) | Mon, 14 Apr 2025 12:08:28 CDT |
+| Time (PDT) | Mon, 14 Apr 2025 10:08:28 PDT |
 | Location | 33.03583, -116.59483 |
 | Depth | 14.29 km |
 | Status | reviewed |
@@ -46,48 +45,37 @@ Information and plots in the section are taken from the [USGS event page](https:
 1 UCERF3 fault section is within 10km of this event's hypocenter:
 
 * Elsinore (Julian): 7.07km
-
-### Ground Motion Animation
-*[(top)](#table-of-contents)*
-
-Animation of simulated ground motions from the 2025-04-14
-Julian earthquake, depicting up (red) and down (blue) seismic wave
-velocities, integrating a 3D community subsurface velocity model for
-Southern California (SCEC CVM-H v15.1.0; Shaw et al., 2015), made available
-by the Statewide California Earthquake Center, and high-resolution
-topography. This simulation uses the open-source software SeisSol and requires
-14 minutes of run-time on 768 cores. Provided by John Rekoske & Alice Gabriel,
-Scripps Institution of Oceanography, UCSD.
-
-https://github.com/user-attachments/assets/b6e90b16-bc6a-4ff6-91f5-2783239a1785
-
 ## Sequence Details
 *[(top)](#table-of-contents)*
 
-These plots show the aftershock sequence, using data sourced from [ComCat](https://earthquake.usgs.gov/data/comcat/). They were last updated at 2025/04/14 22:49:12 UTC, 5.68 hours after the mainshock.
+These plots show the aftershock sequence, using data sourced from [ComCat](https://earthquake.usgs.gov/data/comcat/). They were last updated at 2025/05/24 00:43:49 UTC, 39.32 days after the mainshock.
 
-128 M&ge;0 earthquakes within 50 km of the mainshock's epicenter.
+340 M&ge;0 earthquakes within 10 km of the mainshock's epicenter.
 
 
-|  | First Hour | To Date |
-|-----|-----|-----|
-| **M 0** | 60 | 128 |
-| **M 1** | 42 | 77 |
-| **M 2** | 11 | 17 |
-| **M 3** | 1 | 2 |
+|  | First Hour | First Day | First Week | First Month | To Date |
+|-----|-----|-----|-----|-----|-----|
+| **M 0** | 75 | 225 | 302 | 336 | 340 |
+| **M 1** | 51 | 107 | 129 | 135 | 137 |
+| **M 2** | 14 | 20 | 25 | 26 | 26 |
+| **M 3** | 0 | 1 | 1 | 1 | 1 |
 ### Magnitude Vs. Time Plot
 *[(top)](#table-of-contents)*
 
 This plot shows the magnitude vs. time evolution of the sequence. The mainshock is ploted as a brown circle, foreshocks are plotted as magenta circles, and aftershocks are plotted as cyan circles.
 
-![Mag vs Time Plot](resources/aftershocks_mag_vs_time.png)
+| First Week | First Month | To Date |
+|-----|-----|-----|
+| ![Mag vs Time Plot](resources/aftershocks_mag_vs_time_week.png) | ![Mag vs Time Plot](resources/aftershocks_mag_vs_time_month.png) | ![Mag vs Time Plot](resources/aftershocks_mag_vs_time.png) |
 
 ### Aftershock Locations
 *[(top)](#table-of-contents)*
 
 Map view of the aftershock sequence, plotted as cyan circles. The mainshock  and foreshocks are plotted below in brown and magenta circles respectively, but may be obscured by aftershocks. Nearby UCERF3 fault traces are plotted in gray lines, and the region used to fetch aftershock data in a dashed dark gray line.
 
-![First Day](resources/map_to_date.png)
+| First Day | First Week | To Date |
+|-----|-----|-----|
+| ![First Day](resources/map_first_day.png) | ![First Day](resources/map_first_week.png) | ![First Day](resources/map_to_date.png) |
 
 ### Cumulative Number Plot
 *[(top)](#table-of-contents)*
@@ -110,7 +98,7 @@ These plot shows the magnitude-number distribution of the aftershock sequence th
 
 This section gives results from the UCERF3-ETAS short-term forecasting model. This model is described in [Field et al. (2017)](http://bssa.geoscienceworld.org/lookup/doi/10.1785/0120160173), and computes probabilities of this sequence triggering subsequent aftershocks, including events on known faults.
 
-Probabilities are inherantly time-dependent. Those stated here are for time periods beginning the instant when this report was generated, 2025/04/14 17:49:12 CDT. The model has not been updated with any observed aftershocks and may be out of date, especially if large aftershock have occurred subsequently or a significant amount of time has passed since the mainshock.
+Probabilities are inherantly time-dependent. Those stated here are for time periods beginning the instant when this report was generated, 2025/05/23 17:43:49 PDT. The model has not been updated with any observed aftershocks and may be out of date, especially if large aftershock have occurred subsequently or a significant amount of time has passed since the mainshock.
 
 Results are summarized below and should be considered preliminary. The exact timing, size, location, or number of aftershocks cannot be predicted, and all probabilities are uncertain.
 
@@ -119,12 +107,11 @@ This table gives forecasted one week and one month probabilities for events trig
 
 |  | 1 Week | 1 Month |
 |-----|-----|-----|
-| **M&ge;3** | 93.629% | 97.642% |
-| **M&ge;4** | 27.140% | 35.086% |
-| **M&ge;5** | 3.425% | 4.650% |
-| **M&ge;6** | 0.275% | 0.404% |
-| **M&ge;7** | 0.033% | 0.049% |
-| **M&ge;8** | <0.001% | <0.001% |
+| **M&ge;3** | 12.166% | 29.269% |
+| **M&ge;4** | 1.695% | 5.116% |
+| **M&ge;5** | 0.214% | 0.652% |
+| **M&ge;6** | 0.014% | 0.047% |
+| **M&ge;7** | 0.001% | 0.006% |
 
 ### ETAS Forecasted Magnitude Vs. Time
 *[(top)](#table-of-contents)*
@@ -152,13 +139,13 @@ The table below summarizes the probabilities of this sequence triggering large s
 
 | Fault Section | 1 wk supra-seis prob | 1 mo supra-seis prob | 1 wk M&ge;7 prob | 1 mo M&ge;7 prob |
 |-----|-----|-----|-----|-----|
-| **Earthquake Valley (So Extension)** | 0.028% | 0.045% | 0.015% | 0.022% |
-| **Earthquake Valley** | 0.030% | 0.042% | 0.018% | 0.027% |
-| **Earthquake Valley (No  Extension)** | 0.023% | 0.034% | 0.018% | 0.027% |
-| **Elsinore (Julian)** | 0.013% | 0.021% | 0.012% | 0.019% |
-| **Elsinore (Coyote Mountains)** | 0.013% | 0.019% | 0.012% | 0.018% |
-| **Elsinore (Temecula) rev** | 0.009% | 0.014% | 0.009% | 0.014% |
-| **Elsinore (Glen Ivy) rev** | 0.008% | 0.010% | 0.007% | 0.009% |
-| **Elsinore (Stepovers Combined)** | 0.008% | 0.010% | 0.008% | 0.010% |
-| **Whittier alt 1** | 0.007% | 0.009% | 0.007% | 0.009% |
-| **Chino alt 1** | 0.001% | 0.002% | 0.001% | 0.001% |
+| **Earthquake Valley** | 0.001% | 0.003% | <0.001% | <0.001% |
+| **Earthquake Valley (So Extension)** | 0.001% | 0.003% | <0.001% | <0.001% |
+| **Earthquake Valley (No  Extension)** | <0.001% | <0.001% | <0.001% | <0.001% |
+| **Elsinore (Julian)** | 0.001% | 0.006% | 0.001% | 0.005% |
+| **Elsinore (Coyote Mountains)** | 0.001% | 0.005% | 0.001% | 0.005% |
+| **Elsinore (Temecula) rev** | <0.001% | 0.004% | <0.001% | 0.004% |
+| **Elsinore (Glen Ivy) rev** | <0.001% | 0.003% | <0.001% | 0.003% |
+| **Elsinore (Stepovers Combined)** | <0.001% | 0.003% | <0.001% | 0.003% |
+| **Whittier alt 1** | <0.001% | 0.002% | <0.001% | 0.002% |
+| **Chino alt 1** | <0.001% | 0.002% | <0.001% | 0.001% |

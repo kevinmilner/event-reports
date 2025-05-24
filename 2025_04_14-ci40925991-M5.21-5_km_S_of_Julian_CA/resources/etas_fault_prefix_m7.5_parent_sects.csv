@@ -17,7 +17,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 200,Big Pine (West),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 87,Blackwater,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 169,Blue Cut,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-170,Brawley (Seismic Zone) alt 1,1.0E-5,0.0,0.0,0.0,0.0,1.0E-5,0.0
+170,Brawley (Seismic Zone) alt 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 541,Breckenridge 2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 882,Bullion Mountains,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 94,Burnt Mtn,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -37,7 +37,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 172,Cerro Prieto,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 129,Channel Islands Thrust,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 214,Channel Islands Western Deep Ramp,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-238,Chino alt 1,4.0E-5,0.0,1.0E-5,1.0E-5,1.0E-5,4.0E-5,3.0E-5
+238,Chino alt 1,3.0E-5,0.0,0.0,1.0E-5,1.0E-5,3.0E-5,2.0E-5
 124,Clamshell-Sawpit,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 844,Clayton,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 81,Cleghorn,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -67,11 +67,11 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 671,East Huasna 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 672,Eaton Roughs 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 96,Elmore Ranch,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-103,Elsinore (Coyote Mountains),2.9E-4,3.0E-5,8.0E-5,1.1E-4,2.0E-4,2.9E-4,1.0E-4
-296,Elsinore (Glen Ivy) rev,2.7E-4,3.0E-5,7.0E-5,9.0E-5,1.8E-4,2.7E-4,1.0E-4
-102,Elsinore (Julian),2.9E-4,3.0E-5,8.0E-5,1.1E-4,2.0E-4,2.9E-4,1.0E-4
-402,Elsinore (Stepovers Combined),2.8E-4,3.0E-5,8.0E-5,1.0E-4,1.9E-4,2.8E-4,1.0E-4
-299,Elsinore (Temecula) rev,2.9E-4,3.0E-5,8.0E-5,1.1E-4,2.0E-4,2.9E-4,1.0E-4
+103,Elsinore (Coyote Mountains),1.9E-4,0.0,0.0,3.0E-5,9.0E-5,1.9E-4,7.0E-5
+296,Elsinore (Glen Ivy) rev,1.7E-4,0.0,0.0,3.0E-5,8.0E-5,1.7E-4,4.0E-5
+102,Elsinore (Julian),2.0E-4,0.0,0.0,3.0E-5,1.0E-4,2.0E-4,7.0E-5
+402,Elsinore (Stepovers Combined),1.9E-4,0.0,0.0,3.0E-5,1.0E-4,1.9E-4,6.0E-5
+299,Elsinore (Temecula) rev,2.0E-4,0.0,0.0,3.0E-5,1.0E-4,2.0E-4,7.0E-5
 196,Elysian Park (Lower CFM),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 146,Elysian Park (Upper),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 90,Emerson-Copper Mtn 2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -126,7 +126,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 50,Hunter Mountain-Saline Valley,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 677,Hunting Creek - Bartlett Springs connector 2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 640,Hunting Creek - Berryessa 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-97,Imperial,1.0E-5,0.0,0.0,0.0,0.0,1.0E-5,0.0
+97,Imperial,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 678,Incline Village 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 65,Independence rev 2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 892,Jess Valley,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -196,7 +196,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 109,Palos Verdes,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 244,Panamint Valley,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 162,Paradise,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-186,Peralta Hills,1.0E-5,0.0,1.0E-5,1.0E-5,1.0E-5,1.0E-5,1.0E-5
+186,Peralta Hills,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 647,Pilarcitos 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 193,Pine Mtn,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 93,Pinto Mtn,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -208,7 +208,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 666,Point Reyes 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 843,Point Reyes 2011 connector,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 545,Polaris 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-240,Puente Hills,1.0E-5,0.0,1.0E-5,1.0E-5,1.0E-5,1.0E-5,0.0
+240,Puente Hills,1.0E-5,0.0,0.0,0.0,1.0E-5,1.0E-5,0.0
 648,Quien Sabe 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 152,Raymond,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 118,Red Mountain,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -223,19 +223,19 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 123,Rose Canyon,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 42,Round Valley,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 690,Russ 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-287,San Andreas (Big Bend),1.0E-5,0.0,0.0,0.0,0.0,1.0E-5,0.0
-300,San Andreas (Carrizo) rev,1.0E-5,0.0,0.0,0.0,0.0,1.0E-5,0.0
-285,San Andreas (Cholame) rev,1.0E-5,0.0,0.0,0.0,0.0,1.0E-5,0.0
-295,San Andreas (Coachella) rev,1.0E-5,0.0,0.0,0.0,0.0,1.0E-5,0.0
+287,San Andreas (Big Bend),1.0E-5,0.0,0.0,0.0,1.0E-5,1.0E-5,0.0
+300,San Andreas (Carrizo) rev,1.0E-5,0.0,0.0,0.0,1.0E-5,1.0E-5,0.0
+285,San Andreas (Cholame) rev,1.0E-5,0.0,0.0,0.0,1.0E-5,1.0E-5,0.0
+295,San Andreas (Coachella) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 658,San Andreas (Creeping Section) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-286,San Andreas (Mojave N),1.0E-5,0.0,0.0,0.0,0.0,1.0E-5,0.0
-301,San Andreas (Mojave S),1.0E-5,0.0,0.0,0.0,0.0,1.0E-5,0.0
-294,San Andreas (North Branch Mill Creek),1.0E-5,0.0,0.0,0.0,0.0,1.0E-5,0.0
+286,San Andreas (Mojave N),1.0E-5,0.0,0.0,0.0,1.0E-5,1.0E-5,0.0
+301,San Andreas (Mojave S),1.0E-5,0.0,0.0,0.0,1.0E-5,1.0E-5,0.0
+294,San Andreas (North Branch Mill Creek),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 654,San Andreas (North Coast) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 653,San Andreas (Offshore) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-32,San Andreas (Parkfield),0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,San Andreas (Parkfield),1.0E-5,0.0,0.0,0.0,1.0E-5,1.0E-5,0.0
 655,San Andreas (Peninsula) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-282,San Andreas (San Bernardino N),1.0E-5,0.0,0.0,0.0,0.0,1.0E-5,0.0
+282,San Andreas (San Bernardino N),1.0E-5,0.0,0.0,0.0,1.0E-5,1.0E-5,0.0
 283,San Andreas (San Bernardino S),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 284,San Andreas (San Gorgonio Pass-Garnet HIll),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 657,San Andreas (Santa Cruz Mts) 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -253,7 +253,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 292,San Jacinto (Clark) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 101,San Jacinto (Coyote Creek),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 901,San Jacinto (Lytle Creek connector),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-119,San Jacinto (San Bernardino),0.0,0.0,0.0,0.0,0.0,0.0,0.0
+119,San Jacinto (San Bernardino),1.0E-5,0.0,0.0,0.0,1.0E-5,1.0E-5,0.0
 289,San Jacinto (San Jacinto Valley) rev,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 401,San Jacinto (Stepovers Combined),0.0,0.0,0.0,0.0,0.0,0.0,0.0
 28,San Jacinto (Superstition Mtn),0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -308,7 +308,7 @@ Parent ID,Parent Name,Triggered 10 Year Mean Count,Triggered 1 Day Prob,Triggere
 44,White Mountains,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 253,White Wolf,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 254,White Wolf (Extension),0.0,0.0,0.0,0.0,0.0,0.0,0.0
-236,Whittier alt 1,1.8E-4,3.0E-5,7.0E-5,9.0E-5,1.4E-4,1.8E-4,7.0E-5
+236,Whittier alt 1,1.4E-4,0.0,0.0,2.0E-5,7.0E-5,1.4E-4,2.0E-5
 697,Wight Way 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 206,Yorba Linda,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 715,Zayante-Vergeles 2011 CFM,0.0,0.0,0.0,0.0,0.0,0.0,0.0

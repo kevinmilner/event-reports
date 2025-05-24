@@ -3,7 +3,7 @@
 
 This section gives results from the UCERF3-ETAS short-term forecasting model. This model is described in [Field et al. (2017)](http://bssa.geoscienceworld.org/lookup/doi/10.1785/0120160173), and computes probabilities of this sequence triggering subsequent aftershocks, including events on known faults.
 
-Probabilities are inherantly time-dependent. Those stated here are for time periods beginning the instant when this report was generated, 2025/04/14 17:49:12 CDT. The model has not been updated with any observed aftershocks and may be out of date, especially if large aftershock have occurred subsequently or a significant amount of time has passed since the mainshock.
+Probabilities are inherantly time-dependent. Those stated here are for time periods beginning the instant when this report was generated, 2025/05/23 17:43:49 PDT. The model has not been updated with any observed aftershocks and may be out of date, especially if large aftershock have occurred subsequently or a significant amount of time has passed since the mainshock.
 
 Results are summarized below and should be considered preliminary. The exact timing, size, location, or number of aftershocks cannot be predicted, and all probabilities are uncertain.
 
@@ -12,12 +12,11 @@ This table gives forecasted one week and one month probabilities for events trig
 
 |  | 1 Week | 1 Month |
 |-----|-----|-----|
-| **M&ge;3** | 93.629% | 97.642% |
-| **M&ge;4** | 27.140% | 35.086% |
-| **M&ge;5** | 3.425% | 4.650% |
-| **M&ge;6** | 0.275% | 0.404% |
-| **M&ge;7** | 0.033% | 0.049% |
-| **M&ge;8** | <0.001% | <0.001% |
+| **M&ge;3** | 12.166% | 29.269% |
+| **M&ge;4** | 1.695% | 5.116% |
+| **M&ge;5** | 0.214% | 0.652% |
+| **M&ge;6** | 0.014% | 0.047% |
+| **M&ge;7** | 0.001% | 0.006% |
 
 ### ETAS Forecasted Magnitude Vs. Time
 *[(top)](#table-of-contents)*
@@ -45,13 +44,13 @@ The table below summarizes the probabilities of this sequence triggering large s
 
 | Fault Section | 1 wk supra-seis prob | 1 mo supra-seis prob | 1 wk M&ge;7 prob | 1 mo M&ge;7 prob |
 |-----|-----|-----|-----|-----|
-| **Earthquake Valley (So Extension)** | 0.028% | 0.045% | 0.015% | 0.022% |
-| **Earthquake Valley** | 0.030% | 0.042% | 0.018% | 0.027% |
-| **Earthquake Valley (No  Extension)** | 0.023% | 0.034% | 0.018% | 0.027% |
-| **Elsinore (Julian)** | 0.013% | 0.021% | 0.012% | 0.019% |
-| **Elsinore (Coyote Mountains)** | 0.013% | 0.019% | 0.012% | 0.018% |
-| **Elsinore (Temecula) rev** | 0.009% | 0.014% | 0.009% | 0.014% |
-| **Elsinore (Glen Ivy) rev** | 0.008% | 0.010% | 0.007% | 0.009% |
-| **Elsinore (Stepovers Combined)** | 0.008% | 0.010% | 0.008% | 0.010% |
-| **Whittier alt 1** | 0.007% | 0.009% | 0.007% | 0.009% |
-| **Chino alt 1** | 0.001% | 0.002% | 0.001% | 0.001% |
+| **Earthquake Valley** | 0.001% | 0.003% | <0.001% | <0.001% |
+| **Earthquake Valley (So Extension)** | 0.001% | 0.003% | <0.001% | <0.001% |
+| **Earthquake Valley (No  Extension)** | <0.001% | <0.001% | <0.001% | <0.001% |
+| **Elsinore (Julian)** | 0.001% | 0.006% | 0.001% | 0.005% |
+| **Elsinore (Coyote Mountains)** | 0.001% | 0.005% | 0.001% | 0.005% |
+| **Elsinore (Temecula) rev** | <0.001% | 0.004% | <0.001% | 0.004% |
+| **Elsinore (Glen Ivy) rev** | <0.001% | 0.003% | <0.001% | 0.003% |
+| **Elsinore (Stepovers Combined)** | <0.001% | 0.003% | <0.001% | 0.003% |
+| **Whittier alt 1** | <0.001% | 0.002% | <0.001% | 0.002% |
+| **Chino alt 1** | <0.001% | 0.002% | <0.001% | 0.001% |
